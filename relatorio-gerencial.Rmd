@@ -1,0 +1,32 @@
+---
+title: "Relatório Gerencial"
+author: "Ipeadata Rio"
+date: "`r format(Sys.time(), '%d/%m/%Y')`"
+output:  
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    smooth_scroll: true
+    number_sections: true
+    df_print: paged
+    theme: "cerulean"
+    code_folding: hide
+---
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(fig.align = 'center')
+```
+
+
+## Acessos
+
+## Dias de atraso
+
+## Grupos de Gestão e Atividades
+
+## Resultados de revisão
+
+## Tabelas do Luiz
+
+## Novidades
