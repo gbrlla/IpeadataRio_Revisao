@@ -1,0 +1,795 @@
+"";"PERNOME_P";"SERBASE";"TEMNOME_P";"FNTNOME_P";"SERCODIGOTROLL";"SERNOME_P";"QtdConsultas";"Posicao"
+"1";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP12_IGPDI12";"IGP-DI - geral - índice (ago. 1994 = 100)";175;1
+"2";"Mensal";"Macroeconômico";"Salário e renda";"IPEA";"GAC12_SALMINRE12";"Salário mínimo real";119;2
+"3";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_TJOVER12";"Taxa de juros - Over / Selic";92;3
+"4";"Mensal";"Macroeconômico";"Câmbio";"Bacen/Boletim/BP";"BM12_ERV12";"Taxa de câmbio - R$ / US$ - comercial - venda - média";87;4
+"5";"Mensal";"Macroeconômico";"Preços";"IBGE/SNIPC";"PRECOS12_IPCA12";"IPCA - geral - índice (dez. 1993 = 100)";64;5
+"6";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_XVTOT12";"Exportações - (FOB)";59;6
+"7";"Mensal";"Macroeconômico";"Câmbio";"IPEA";"GAC12_TCERXT12";"Taxa de câmbio - efetiva real - IPA-EP-DI - exportações - índice (média 2010 = 100)";53;7
+"8";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_NFSPONA12";"NFSP - setor público - operacional - c/ desvalorização cambial - acum. 12 meses";47;8
+"9";"Mensal";"Macroeconômico";"Preços";"Dieese";"DIEESE12_ICVSPD12";"ICV-SP - índice (jun. 1994 = 100)";46;9
+"10";"Mensal";"Macroeconômico";"Emprego";"IBGE/PME antiga";"PME12_TDESA12";"Taxa de desemprego - aberto - referência: semana - RMs";45;10
+"11";"Mensal";"Macroeconômico";"Preços";"IBGE/SNIPC";"PRECOS12_INPC12";"INPC - geral - índice (dez. 1993 = 100)";44;11
+"12";"Mensal";"Macroeconômico";"Balanço de pagamentos";"Bacen/Not. Imp./Set. Ext.";"BM12_RESLIQ12";"Reservas internacionais - Conceito liquidez";43;12
+"13";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_NFSPPNA12";"NFSP - setor público - primário - c/ desvalorização cambial - acum. 12 meses";40;13
+"14";"Mensal";"Macroeconômico";"Emprego";"IBGE/PME antiga";"PME12_TDA12";"Taxa de desemprego - aberto - referência: 30 dias - RMs";36;14
+"15";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DTSPN12";"Dívida - total - setor público - líquida";35;15
+"16";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_NFSPNNA12";"NFSP - setor público - nominal - c/ desvalorização cambial - acum. 12 meses";34;16
+"17";"Mensal";"Macroeconômico";"Salário e renda";"IBGE/PME antiga";"PME12_RMN12";"Rendimento médio do trabalho principal - RMs";34;16
+"18";"Mensal";"Macroeconômico";"Câmbio";"IPEA";"GAC12_TCERXM12";"Taxa de câmbio - efetiva real - IPA-OG-IT - exportações - manufaturados - índice (média 2010 = 100)";32;18
+"19";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DINSPY12";"Dívida interna - setor público - líquida";31;19
+"20";"Mensal";"Macroeconômico";"Produção";"Abia";"ABIA12_ALIM12";"Produção física - alimentos - índice (média 1989 = 100)";30;20
+"21";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIIG12";"Produção industrial - indústria geral - quantum - índice (média 1991 = 100)";30;20
+"22";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP12_IPC12";"IPC - geral - índice (ago. 1994 = 100)";29;22
+"23";"Mensal";"Macroeconômico";"Produção";"SNIC";"SNIC12_QSCC12";"Produção - cimento - qde.";29;22
+"24";"Mensal";"Macroeconômico";"Financeiras";"Anbima";"ANBIMA12_TJCDBP12";"Taxa de juros - CDB pré-fixado";29;22
+"25";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP12_IPAOG12";"IPA origem - geral - índice (ago. 1994 = 100)";28;25
+"26";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP12_IGPOG12";"IGP-OG - geral - índice (ago. 1994 = 100)";27;26
+"27";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP12_IPADI12";"IPA-EP-DI - geral - índice (ago. 1994 = 100)";27;26
+"28";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_PFIND12";"Produção industrial - indústria geral - quantum - índice dessaz. (média 1991 = 100)";27;26
+"29";"Mensal";"Macroeconômico";"Emprego";"Seade/PED";"SEADE12_TDTGSP12";"Taxa de desemprego - RMSP";26;29
+"30";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_MVTOT12";"Importações - (FOB)";26;29
+"31";"Mensal";"Macroeconômico";"Preços";"Fipe";"FIPE12_IPCFIPE12";"IPC - geral - índice (jun. 1994 = 100) - RMSP";25;31
+"32";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0701";"IPA-OG - borracha - índice (ago. 1994 = 100)";25;31
+"33";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0851";"IPA-OG - bebidas - índice (ago. 1994 = 100)";24;33
+"34";"Mensal";"Macroeconômico";"Contas nacionais";"IPEA";"GAMMA12_PIBE12";"PIB - preços de mercado - índice encadeado (média 1990 = 100)";23;34
+"35";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP12_IPAIEX12";"IPA origem - prod. industriais - ind. extrativa - índice (ago. 1994 = 100)";23;34
+"36";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP12_IPAITR12";"IPA origem - prod. industriais - ind. transf. - índice (ago. 1994 = 100)";23;34
+"37";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DINEMY12";"Dívida interna - estados e municípios - líquida";22;37
+"38";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0711";"IPA-OG - couros e peles - índice (ago. 1994 = 100)";22;37
+"39";"Mensal";"Macroeconômico";"Emprego";"IBGE/PME antiga";"PME12_POC12";"População ocupada - RMs - índice (média 1993 = 100)";19;39
+"40";"Mensal";"Macroeconômico";"Consumo e vendas";"ANP";"ANP12_DIESEL12";"Consumo aparente - óleo diesel - média - qde.";18;40
+"41";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_TJCDI12";"Taxa de juros - CDI / Over";18;40
+"42";"Mensal";"Macroeconômico";"Financeiras";"Anbima";"ANBIMA12_TJPOUP12";"Poupança - rendimento nominal - 1º dia útil (até 03.05.2012)";18;40
+"43";"Mensal";"Macroeconômico";"Produção";"Fiesp";"FIESP12_INA12";"INA - indústria - índice (jun. 1994 = 100) - SP";16;43
+"44";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DINGFY12";"Dívida interna - gov. federal e Banco Central - líquida";16;43
+"45";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0647";"IPA-OG - madeira - índice (ago. 1994 = 100)";16;43
+"46";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0574";"IPA-OG - material elétrico - índice (ago. 1994 = 100)";15;46
+"47";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_TPFIGP12";"Títulos - federais - indexados ao IGP-M - fim período";15;46
+"48";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0612";"IPA-OG - material de transporte - índice (ago. 1994 = 100)";14;48
+"49";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0655";"IPA-OG - mobiliário - índice (ago. 1994 = 100)";13;49
+"50";"Mensal";"Macroeconômico";"Consumo e vendas";"CNI";"CNI12_VENREA12";"Faturamento real - indústria - índice (média 2006 = 100)";13;49
+"51";"Mensal";"Macroeconômico";"Financeiras";"Anbima";"ANBIMA12_IBVSP12";"Índice de ações - Ibovespa - fechamento";13;49
+"52";"Mensal";"Macroeconômico";"Produção";"ABPO";"ABPO12_PAPEL12";"Expedição de caixas, acessórios e chapas - papelão ondulado - qde.";12;52
+"53";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP12_INCC12";"INCC - geral - índice (ago. 1994 = 100)";12;52
+"54";"Mensal";"Macroeconômico";"Salário e renda";"Seade/PED";"SEADE12_SIRMRA12";"Rendimento médio - real - assalariados - trabalho principal - índice (média 2000 = 100) - RMSP";12;52
+"55";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0531";"IPA-OG - mecânica - índice (ago. 1994 = 100)";12;52
+"56";"Mensal";"Macroeconômico";"Produção";"Anfavea";"ANFAVE12_QVETOT12";"Produção - autoveículos - montados e desmontados - qde.";12;52
+"57";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YICC12";"Produção industrial - insumos - construção civil - quantum - índice (média 1991 = 100)";12;52
+"58";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XVT12";"Exportações - (FOB)";12;52
+"59";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XPM12";"Exportações - produtos manufaturados - preços - índice (média 2006 = 100)";11;59
+"60";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCMEL12";"Produção industrial - material elétrico e de comunicação - quantum - índice (média 1991 = 100)";11;59
+"61";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIQI12";"Produção industrial - química - quantum - índice (média 1991 = 100)";11;59
+"62";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QITEX12";"Produção industrial - têxtil - quantum - índice (média 1991 = 100)";11;59
+"63";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0507";"IPA-OG - metalúrgica - índice (ago. 1994 = 100)";11;59
+"64";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA1430";"IPA-OG - produtos alimentares - índice (ago. 1994 = 100)";11;59
+"65";"Mensal";"Macroeconômico";"Emprego";"CNI";"CNI12_HTRAB12";"Horas trabalhadas - indústria - índice (média 2006 = 100)";11;59
+"66";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_TJTR12";"Taxa de juros - TR";11;59
+"67";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_TJTBF12";"Taxa de juros - TBF";11;59
+"68";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_RNDPO12";"Poupança - rendimento nominal a partir de 04.05.2012 - Rentabilidade no período (1º dia do mês)";11;59
+"69";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/Cotepe";"CONFAZ12_ICMSN12";"Imposto sobre a circulação de mercadorias (ICMS) - Total Brasil";10;69
+"70";"Mensal";"Macroeconômico";"Comércio exterior";"Bacen/BP (BPM5)";"BPN12_XTV12";"Exportações - (FOB) (Antiga metod. - BPM5)";10;69
+"71";"Mensal";"Macroeconômico";"Câmbio";"IPEA";"GAC12_TCRXM12";"Taxa de paridade - R$ / US$ - IPA-IT - índice (dez. 1998 = 100)";10;69
+"72";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA1546";"IPA-OG - produtos farmacêuticos - índice (ago. 1994 = 100)";10;69
+"73";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0698";"IPA-OG - papel e papelão - índice (ago. 1994 = 100)";10;69
+"74";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"SRF12_IRPF12";"Imposto sobre a renda (IR) - pessoas físicas - total - receita bruta";10;69
+"75";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCMET12";"Produção industrial - metalúrgica - quantum - índice (média 1991 = 100)";10;69
+"76";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIMEC12";"Produção industrial - material elétrico e de comunicação - quantum - índice (média 1991 = 100)";9;76
+"77";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCMTR12";"Produção industrial - material de transporte - quantum - índice (média 1991 = 100)";9;76
+"78";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA1554";"IPA-OG - perfumaria e sabões - índice (ago. 1994 = 100)";9;76
+"79";"Mensal";"Macroeconômico";"Salário e renda";"CNI";"CNI12_SALRE12";"Salário - real - indústria - índice (média 1992 = 100)";9;76
+"80";"Mensal";"Macroeconômico";"Emprego";"CNI";"CNI12_HTRABD12";"Horas trabalhadas - indústria - índice dessaz. (média 2006 = 100)";8;80
+"81";"Mensal";"Macroeconômico";"Produção";"CNI";"CNI12_NUCAP12";"Utilização da capacidade instalada - indústria";8;80
+"82";"Mensal";"Macroeconômico";"Emprego";"CNI";"CNI12_PEEMPD12";"Pessoal empregado - indústria - índice dessaz. (média 2006 = 100)";8;80
+"83";"Mensal";"Macroeconômico";"Economia internacional";"Bacen/Boletim/Intern.";"BM12_PRIME12";"Taxa de juros - Prime - média";8;80
+"84";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_ALBCY12";"balança comercial - saldo (acum. 12 meses)";8;80
+"85";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"SRF12_IRPJ12";"Imposto sobre a renda (IR) - pessoas jurídicas - total - receita bruta";8;80
+"86";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIMP12";"Produção industrial - produtos de matéria plástica - quantum - índice (média 1991 = 100)";8;80
+"87";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCMEC12";"Produção industrial - mecânica - quantum - índice (média 1991 = 100)";8;80
+"88";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIMT12";"Produção industrial - material de transporte - quantum - índice (média 1991 = 100)";8;80
+"89";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIBK12";"Produção industrial - bens de capital - quantum - índice (média 1991 = 100)";8;80
+"90";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIIT12";"Produção industrial - indústria de transformação - quantum - índice (média 1991 = 100)";8;80
+"91";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIBCD12";"Produção industrial - bens de consumo duráveis - quantum - índice (média 1991 = 100)";8;80
+"92";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIME12";"Produção industrial - mecânica - quantum - índice (média 1991 = 100)";8;80
+"93";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIMET12";"Produção industrial - metalúrgica - quantum - índice (média 1991 = 100)";8;80
+"94";"Mensal";"Macroeconômico";"Preços";"Fipe";"FIPE12_FIPE0001";"Inflação - IPC (FIPE)";8;80
+"95";"Mensal";"Macroeconômico";"Emprego";"IBGE/PIM-DG";"PIMDG12_POIND12";"Pessoal ocupado - na produção - indústria geral - índice (média 1985 = 100)";8;80
+"96";"Mensal";"Macroeconômico";"Comércio exterior";"Bacen/BP (BPM5)";"BPN12_MTV12";"Importações - (FOB) (Antiga metod. - BPM5)";8;80
+"97";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_DEV12";"M1 - depósitos à vista - fim período";8;80
+"98";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP12_IPAA12";"IPA-DI - origem - prod. agropecuários - índice (ago. 1994 = 100)";8;80
+"99";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DINEEY12";"Dívida interna - estatais - líquida";8;80
+"100";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ.";"AGROAN12_PRSO12";"Preço médio - recebido pelo produtor - soja - kg";8;80
+"101";"Mensal";"Macroeconômico";"Emprego";"Fiesp";"FIESP12_NEINSP12";"Nível de emprego - indústria - índice (jun. 1994 = 100) - SP";8;80
+"102";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_LAV12";"Vendas industriais - lavadoras automáticas - qde.";8;80
+"103";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_FREEZ12";"Vendas industriais - freezers verticais - qde.";8;80
+"104";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_XVMANU12";"Exportações - fator agregado - produtos manufaturados - (FOB)";8;80
+"105";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_XVBASI12";"Exportações - fator agregado - produtos básicos - (FOB)";7;105
+"106";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_TJLP12";"Taxa de juros - TJLP";7;105
+"107";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_RNACOES12";"Fundo de ações - rendimento nominal";7;105
+"108";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_TJTBAN12";"Taxa de juros - TBAN";7;105
+"109";"Mensal";"Macroeconômico";"Produção";"ANP";"ANP12_PDPET12";"Produção - petróleo - média - qde./dia";7;105
+"110";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_REFRI12";"Vendas industriais - refrigeradores - qde.";7;105
+"111";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_FOG12";"Vendas industriais - fogões - qde.";7;105
+"112";"Mensal";"Macroeconômico";"Câmbio";"Bacen/Boletim/BP";"BM12_ERVF12";"Taxa de câmbio - R$ / US$ - comercial - venda - fim período";7;105
+"113";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCPER12";"Produção industrial - perfumaria, sabões e velas - quantum - índice (média 1991 = 100)";7;105
+"114";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIPAL12";"Produção industrial - produtos alimentares - quantum - índice (média 1991 = 100)";7;105
+"115";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCMNM12";"Produção industrial - minerais não metálicos - quantum - índice (média 1991 = 100)";7;105
+"116";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCPAP12";"Produção industrial - papel e papelão - quantum - índice (média 1991 = 100)";7;105
+"117";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIPSV12";"Produção industrial - perfumaria, sabões e velas - quantum - índice (média 1991 = 100)";7;105
+"118";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"SRF12_IR12";"Imposto sobre a renda (IR) - total - receita bruta";7;105
+"119";"Mensal";"Macroeconômico";"Produção";"Anfavea";"ANFAVE12_QVEICL12";"Produção - veículos comerciais leves - montados e desmontados - qde.";7;105
+"120";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_USBCY12";"balança comercial - saldo (acum. 12 meses)";7;105
+"121";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_USU12";"taxa de desemprego - força de trabalho";7;105
+"122";"Mensal";"Macroeconômico";"Emprego";"CNI";"CNI12_PEEMP12";"Pessoal empregado - indústria - índice (média 2006 = 100)";7;105
+"123";"Mensal";"Macroeconômico";"Câmbio";"IPEA";"GAC12_TCRXT12";"Taxa de paridade - R$ / US$ - IPA-OG - índice (dez. 1998 = 100)";7;105
+"124";"Mensal";"Macroeconômico";"Emprego";"Seade/PED";"SEADE12_TDAGSP12";"Taxa de desemprego - aberto - RMSP";6;124
+"125";"Mensal";"Macroeconômico";"Salário e renda";"CNI";"CNI12_SALNO12";"Salário - indústria - índice (média 1992 = 100)";6;124
+"126";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"SRF12_IRRF12";"Imposto sobre a renda (IR) - retido nas fontes - total - receita bruta";6;124
+"127";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIPP12";"Produção industrial - papel e papelão - quantum - índice (média 1991 = 100)";6;124
+"128";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIMNM12";"Produção industrial - minerais não metálicos - quantum - índice (média 1991 = 100)";6;124
+"129";"Mensal";"Macroeconômico";"Emprego";"IBGE/PIM-DG";"PIMDG12_HPIND12";"Horas pagas - na produção - indústria geral - índice (média 1985 = 100)";6;124
+"130";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XVB12";"Exportações - produtos básicos - (FOB)";6;124
+"131";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XQT12";"Exportações - quantum - índice (média 2006 = 100)";6;124
+"132";"Mensal";"Macroeconômico";"Câmbio";"Bacen/Boletim/BP";"BM12_ERCF12";"Taxa de câmbio - R$ / US$ - comercial - compra - fim período";6;124
+"133";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ.";"AGROAN12_PRTR12";"Preço médio - recebido pelo produtor - trigo - kg";6;124
+"134";"Mensal";"Macroeconômico";"Financeiras";"Valor Econômico";"GM12_TJLFT12";"Taxa de juros - Letras do Tesouro Nacional - financeiras (LFT)";6;124
+"135";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP12_IPAI12";"IPA-DI - origem - prod. industriais - índice (ago. 1994 = 100)";6;124
+"136";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_M2N12";"M2 - fim período";6;124
+"137";"Mensal";"Macroeconômico";"Consumo e vendas";"Fiesp";"FIESP12_CEEQ12";"Consumo na produção - energia elétrica - indústria - índice (jun. 1978 = 100) - SP";6;124
+"138";"Mensal";"Macroeconômico";"Produção";"Fiesp";"FIESP12_NUCI12";"Utilização da capacidade instalada - indústria - SP";6;124
+"139";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_SDIE12";"Execução financeira - despesas - liberações ordinárias - encargos dívida contratual - int. e ext.";6;124
+"140";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_AUTCONS12";"Comércio - automotivo e construção - faturamento - índice (média 1998 = 100) - RMSP";6;124
+"141";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_XVINDU12";"Exportações - fator agregado - produtos industrializados - (FOB)";6;124
+"142";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_XBKCAC12";"Exportações - bens de capital - (FOB)";6;124
+"143";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_MVPETB12";"Importações - categorias de uso - petróleo bruto - (FOB)";5;143
+"144";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_BAT12";"Vendas industriais - batedeiras - qde.";5;143
+"145";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_COND12";"Vendas industriais - condicionadores de ar - qde.";5;143
+"146";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_M0MN12";"M0 - base monetária - média";5;143
+"147";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DIFISPY12";"Dívida fiscal - setor público - líquida";5;143
+"148";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DINGFN12";"Dívida interna - gov. federal e Banco Central - líquida";5;143
+"149";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ.";"AGROAN12_PRAL12";"Preço médio - recebido pelo produtor - algodão (em caroço) - kg";5;143
+"150";"Mensal";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM12_RESBOP12";"Reservas internacionais - balanço de pagamentos";5;143
+"151";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIBI12";"Produção industrial - bens intermediários - quantum - índice (média 1991 = 100)";5;143
+"152";"Mensal";"Macroeconômico";"Preços";"Fipe";"FIPE12_FIPE0118";"IPC - grupo: alimentação - RMSP - var.";5;143
+"153";"Mensal";"Macroeconômico";"Produção";"Anfavea";"ANFAVE12_MAGRIC12";"Produção - máquinas agrícolas automotrizes - montados e desmontados - qde.";5;143
+"154";"Mensal";"Macroeconômico";"Produção";"Anfavea";"ANFAVE12_QPASSA12";"Produção - automóveis - montados e desmontados - qde.";5;143
+"155";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"SRF12_TOTREC12";"Receita administrada pela SRF - receita bruta";5;143
+"156";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"SRF12_IPI12";"Imposto sobre produtos industrializados (IPI) - total - receita bruta";5;143
+"157";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA1562";"IPA-OG - produtos de matérias plásticas - índice (ago. 1994 = 100)";5;143
+"158";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA1465";"IPA-OG - açúcar - índice (ago. 1994 = 100)";5;143
+"159";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0787";"IPA-OG - tecidos, vestuário e calçados - índice (ago. 1994 = 100)";5;143
+"160";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0728";"IPA-OG - química - índice (ago. 1994 = 100)";5;143
+"161";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_ITRI12";"reservas internacionais";5;143
+"162";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_ITU12";"taxa de desemprego - força de trabalho";4;162
+"163";"Mensal";"Macroeconômico";"Produção";"CNI";"CNI12_NUCAPD12";"Utilização da capacidade instalada - indústria - dessaz.";4;162
+"164";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPAGA12";"IPA-DI - gêneros alimentícios - índice (ago. 1994 = 100)";4;162
+"165";"Mensal";"Macroeconômico";"Produção";"Anfavea";"ANFAVE12_QCAMIN12";"Produção - caminhões - montados e desmontados - qde.";4;162
+"166";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0795";"IPA-OG - tecidos e fios naturais - índice (ago. 1994 = 100)";4;162
+"167";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCQUI12";"Produção industrial - química - quantum - índice (média 1991 = 100)";4;162
+"168";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QICND12";"Produção industrial - bens de consumo não duráveis - quantum - índice (média 1991 = 100)";4;162
+"169";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIBO12";"Produção industrial - borracha - quantum - índice (média 1991 = 100)";4;162
+"170";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XVS12";"Exportações - produtos semi-manufaturados - (FOB)";4;162
+"171";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XQS12";"Exportações - produtos semi-manufaturados - quantum - índice (média 2006 = 100)";4;162
+"172";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XVM12";"Exportações - produtos manufaturados - (FOB)";4;162
+"173";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XQB12";"Exportações - produtos básicos - quantum - índice (média 2006 = 100)";4;162
+"174";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XPB12";"Exportações - produtos básicos - preços - índice (média 2006 = 100)";4;162
+"175";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XPS12";"Exportações - produtos semi-manufaturados - preços - índice (média 2006 = 100)";4;162
+"176";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN12_PIBICC12";"PIB - indústria - construção civil - índice encadeado (média 1990 = 100)";4;162
+"177";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ.";"AGROAN12_PRARR12";"Preço médio - recebido pelo produtor - arroz (em casca) - kg";4;162
+"178";"Mensal";"Macroeconômico";"Câmbio";"Bacen/Boletim/BP";"BM12_ERC12";"Taxa de câmbio - R$ / US$ - comercial - compra - média";4;162
+"179";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DEXEMY12";"Dívida externa - estados e municípios - líquida";4;162
+"180";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DTEMY12";"Dívida - total - estados e municípios - líquida";4;162
+"181";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DTSPY12";"Dívida - total - setor público - líquida";4;162
+"182";"Mensal";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP12_IEPL12";"Conta de capital - investimentos estrangeiros - portfólio";4;162
+"183";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_M0ANH12";"M0 - base monetária ampliada - média";4;162
+"184";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_M0N12";"M0 - base monetária - fim período";4;162
+"185";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_PMPP12";"M1 - papel-moeda em poder do público - fim período";4;162
+"186";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_M3N12";"M3 - fim período";4;162
+"187";"Mensal";"Macroeconômico";"Preços";"IBGE/SNIPC";"PRECOS12_INPCAB12";"INPC - alimentos e bebidas - var.";4;162
+"188";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_CONSERV12";"Vendas industriais - congeladores e conservadores horizontais - qde.";4;162
+"189";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_FMICRO12";"Vendas industriais - fornos de microondas - qde.";4;162
+"190";"Mensal";"Macroeconômico";"Produção";"Fiesp";"FIESP12_INAD12";"INA - indústria - índice dessaz. (jun. 1994 = 100) - SP";4;162
+"191";"Mensal";"Macroeconômico";"Salário e renda";"Fiesp";"FIESP12_FPR12";"Folha de pagamentos - real - indústria - índice (média 2006 = 100) - SP";4;162
+"192";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_RDBB12";"Execução financeira - receitas - remuneração de disponibilidades no BB";4;162
+"193";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_PEE12";"Execução financeira - despesas - liberações ordinárias - pessoal e encargos";4;162
+"194";"Mensal";"Macroeconômico";"Produção";"IBS/ES";"IBSES12_VERG12";"Produção - vergalhões - qde.";4;162
+"195";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_MVOTMB12";"Importações - outras (FOB)";4;162
+"196";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_XTOARG12";"Exportações (FOB) - destino: Argentina";4;162
+"197";"Mensal";"Macroeconômico";"Balanço de pagamentos";"Bacen/Not. Imp./Set. Ext.";"BM12_RESCX12";"Reservas internacionais - Conceito caixa";4;162
+"198";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_RNFRF12";"Fundo de investimento - FRF - rendimento nominal";4;162
+"199";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_RNFI6012";"Fundo de investimento - FIF - 60 dias - rendimento nominal";3;199
+"200";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_RNOSD12";"Dólar comercial - rendimento nominal";3;199
+"201";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_TJCDBN12";"Taxa de juros - CDB";3;199
+"202";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_RNFI3012";"Fundo de investimento - FIF - 30 dias - rendimento nominal";3;199
+"203";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_VAREJO12";"Comércio - bens de consumo - faturamento - índice (média 1998 = 100) - RMSP";3;199
+"204";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_DURAV12";"Comércio - bens duráveis - faturamento - índice (média 1998 = 100) - RMSP";3;199
+"205";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_AUTOPE12";"Comércio - autopeças - faturamento - índice (média 1998 = 100) - RMSP";3;199
+"206";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_NAODUR12";"Comércio - bens não duráveis - faturamento - índice (média 1998 = 100) - RMSP";3;199
+"207";"Mensal";"Macroeconômico";"Produção";"IBS/IE";"IBSIE12_QSCAB12";"Produção - aço bruto";3;199
+"208";"Mensal";"Macroeconômico";"Produção";"IBS/IE";"IBSIE12_QSCFG12";"Produção - ferro-gusa";3;199
+"209";"Mensal";"Macroeconômico";"Produção";"IBS/IE";"IBSIE12_QSCL12";"Produção - laminados";3;199
+"210";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_BENCAP12";"Importações - categorias de uso - bens de capital - (FOB)";3;199
+"211";"Mensal";"Macroeconômico";"Produção";"IBS/ES";"IBSES12_PLEVE12";"Produção - perfis leves - qde.";3;199
+"212";"Mensal";"Macroeconômico";"Emprego";"Fiesp";"FIESP12_HTP12";"Horas trabalhadas - na produção - indústria - índice (média 2006 = 100) - SP";3;199
+"213";"Mensal";"Macroeconômico";"Salário e renda";"Fiesp";"FIESP12_SRM12";"Salário real - médio - indústria - índice (média 2006 = 100) - SP";3;199
+"214";"Mensal";"Macroeconômico";"Preços";"IBGE/SNIPC";"PRECOS12_INPCBR12";"Inflação - INPC";3;199
+"215";"Mensal";"Macroeconômico";"Comércio exterior";"Bacen/BP (BPM5)";"BPN12_SBC12";"Balança comercial - (FOB) - saldo (Antiga metod. - BPM5)";3;199
+"216";"Mensal";"Macroeconômico";"Preços";"IBGE/SNIPC";"PRECOS12_INPCSC12";"INPC - saúde e cuidados pessoais - var.";3;199
+"217";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_TFPPN12";"M2 - títulos federais - em poder do público não financeiro - fim período";3;199
+"218";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_M4N12";"M4 - fim período";3;199
+"219";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_NFSPPY12";"NFSP - setor público - primário - c/ desvalorização cambial - acum. 12 meses";3;199
+"220";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DTEMN12";"Dívida - total - estados e municípios - líquida";3;199
+"221";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_NFEMPNA12";"NFSP - estados e municípios - primário - c/ desvalorização cambial - acum. 12 meses";3;199
+"222";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DEXSPN12";"Dívida externa - setor público - líquida";3;199
+"223";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DEXEMN12";"Dívida externa - estados e municípios - líquida";3;199
+"224";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DEXEEN12";"Dívida externa - estatais - líquida";3;199
+"225";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DEXGFN12";"Dívida externa - gov. federal e Banco Central - líquida";3;199
+"226";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DIVEST12";"Dívida interna - pública - estadual - títulos emitidos - fim período";3;199
+"227";"Mensal";"Macroeconômico";"Câmbio";"Bacen/Boletim/BP";"BM12_SFCC12";"Câmbio contratado - financeiro";3;199
+"228";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ.";"AGROAN12_PRFE12";"Preço médio - recebido pelo produtor - feijão - kg";3;199
+"229";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ.";"AGROAN12_PRBOIG12";"Preço médio - recebido pelo produtor - boi gordo (em corte) - 15 kg";3;199
+"230";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ.";"AGROAN12_PRCN12";"Preço médio - recebido pelo produtor - cana-de-açúcar - tonelada";3;199
+"231";"Mensal";"Macroeconômico";"Câmbio";"Valor Econômico";"GM12_BLACKF12";"Taxa de câmbio - R$ / US$ - paralelo - venda - fim período";3;199
+"232";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIBCT12";"Produção industrial - bens de consumo - quantum - índice (média 1991 = 100)";3;199
+"233";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSIF12";"PIB - serviços - instituições financeiras - índice real (média 1980 = 100)";3;199
+"234";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0558";"IPA-OG - máquinas e equipamentos industriais - índice (ago. 1994 = 100)";3;199
+"235";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0809";"IPA-OG - tecidos e fios artificiais / sintéticos - índice (ago. 1994 = 100)";3;199
+"236";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA1422";"IPA-OG - fumo - índice (ago. 1994 = 100)";3;199
+"237";"Mensal";"Macroeconômico";"Consumo e vendas";"CNI";"CNI12_VENRED12";"Faturamento real - indústria - índice dessaz. (média 2006 = 100)";3;199
+"238";"Mensal";"Macroeconômico";"Economia internacional";"Bacen/Boletim/Intern.";"BM12_LIBOR12";"Taxa de juros - Libor / dólar americano - média";3;199
+"239";"Mensal";"Macroeconômico";"Emprego";"Seade/PED";"SEADE12_TDOPSP12";"Taxa de desemprego - oculto - precário - RMSP";3;199
+"240";"Mensal";"Macroeconômico";"Emprego";"Seade/PED";"SEADE12_TDOTSP12";"Taxa de desemprego - oculto - RMSP";2;240
+"241";"Mensal";"Macroeconômico";"Consumo e vendas";"CNI";"CNI12_VENNOM12";"Faturamento nominal - indústria - índice (média 2006 = 100)";2;240
+"242";"Mensal";"Macroeconômico";"Economia internacional";"Bacen/Boletim/Intern.";"BM12_LIBORL12";"Taxa de juros - Libor / libra esterlina - média";2;240
+"243";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_UKPCG12";"preços ao consumidor - var. em 12 meses";2;240
+"244";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_ALU12";"taxa de desemprego - força de trabalho";2;240
+"245";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_FRPIG12";"produção industrial - var. em 12 meses";2;240
+"246";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_FRU12";"taxa de desemprego - força de trabalho";2;240
+"247";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_UKU12";"taxa de desemprego - força de trabalho";2;240
+"248";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_JPU12";"taxa de desemprego - força de trabalho";2;240
+"249";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPABP12";"IPA-DI - grupo II: bens de produção - índice (ago. 1994 = 100)";2;240
+"250";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"SRF12_CSLL12";"Contribuição social sobre o lucro líquido (CSLL) - total - receita bruta";2;240
+"251";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"SRF12_IOF12";"Imposto sobre operações financeiras (IOF) - total - receita bruta";2;240
+"252";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"SRF12_PIS12";"Contribuição - PIS / Pasep - total - receita bruta";2;240
+"253";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"SRF12_IPMF12";"Contribuição provisória sobre movimentação financeira (CPMF) - receita bruta";2;240
+"254";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"SRF12_COFINS12";"Contribuição - Finsocial / Cofins - total - receita bruta";2;240
+"255";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPABCD12";"IPA-DI - bens de consumo duráveis - índice (ago. 1994 = 100)";2;240
+"256";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0841";"IPA-OG - tecidos, vestuário e calçados - outros - índice (ago. 1994 = 100)";2;240
+"257";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0825";"IPA-OG - vestuário (exceto malharia) - índice (ago. 1994 = 100)";2;240
+"258";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPABC12";"IPA-DI - grupo I: bens de consumo - índice (ago. 1994 = 100)";2;240
+"259";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCBEB12";"Produção industrial - bebidas - quantum - índice (média 1991 = 100)";2;240
+"260";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YIEX12";"Produção industrial - extrativa mineral - quantum - índice (média 1991 = 100)";2;240
+"261";"Mensal";"Macroeconômico";"Preços";"Fipe";"FIPE12_FIPE0379";"IPC - grupo: despesas pessoais - RMSP - var.";2;240
+"262";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCUT12";"PIB - serviços - Telebrás - índice real (média 1980 = 100)";2;240
+"263";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCIMP12";"Importações - exceto petróleo - índice (média 1980 = 100)";2;240
+"264";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCPLA12";"Produção industrial - produtos de matérias plásticas - quantum - índice (média 1991 = 100)";2;240
+"265";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCBOR12";"Produção industrial - borracha - quantum - índice (média 1991 = 100)";2;240
+"266";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIFA12";"Produção industrial - farmacêutica - quantum - índice (média 1991 = 100)";2;240
+"267";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIEM12";"Produção industrial - extrativa mineral - quantum - índice (média 1991 = 100)";2;240
+"268";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XVBCND12";"Exportações - bens de consumo não duráveis - (FOB) (série antiga)";2;240
+"269";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_MDVT12";"Importações - (FOB)";2;240
+"270";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XVBK12";"Exportações - bens de capital - (FOB) (série antiga)";2;240
+"271";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ.";"AGROAN12_PRBEZ12";"Preço médio - recebido pelo produtor - bezerro até 1 ano - cabeça";2;240
+"272";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ.";"AGROAN12_PRMI12";"Preço médio - recebido pelo produtor - milho - kg";2;240
+"273";"Mensal";"Macroeconômico";"Câmbio";"Bacen/Boletim/BP";"BM12_ERFF12";"Taxa de câmbio - R$ / US$ - flutuante - venda - fim período";2;240
+"274";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DIFISPN12";"Dívida fiscal - setor público - líquida";2;240
+"275";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_TPFBC12";"Títulos públicos federais - fora do BC - Banco Central - fim período";2;240
+"276";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_TPFER12";"Títulos - federais - indexados ao câmbio - fim período";2;240
+"277";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_NFSPNY12";"NFSP - setor público - nominal - c/ desvalorização cambial - acum. 12 meses";2;240
+"278";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_NFEMNY12";"NFSP - estados e municípios - nominal - c/ desvalorização cambial - acum. 12 meses";2;240
+"279";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_NFEEJRNA12";"NFSP - estatais - juros reais - c/ desvalorização cambial - acum. 12 meses";2;240
+"280";"Mensal";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP12_IEMRFR12";"Conta de capital - investimentos estrangeiros - portfólio - fundos - retornos";2;240
+"281";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_PMPPM12";"M1 - papel-moeda em poder do público - média";2;240
+"282";"Mensal";"Macroeconômico";"Emprego";"Fiesp";"FIESP12_THP12";"Horas pagas - indústria - índice (média 2006 = 100) - SP";2;240
+"283";"Mensal";"Macroeconômico";"Emprego";"Fiesp";"FIESP12_TPO12";"Pessoal ocupado - indústria - índice (média 2006 = 100) - SP";2;240
+"284";"Mensal";"Macroeconômico";"Salário e renda";"Fiesp";"FIESP12_FPRM12";"Folha de pagamentos - real - média - indústria - índice (média 2006 = 100) - SP";2;240
+"285";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_CAF12";"Vendas industriais - cafeteiras - qde.";2;240
+"286";"Mensal";"Macroeconômico";"Produção";"IBS/ES";"IBSES12_PMEDIO12";"Produção - perfis médios e pesados - qde.";2;240
+"287";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_RDBC12";"Execução financeira do Tesouro Nacional - remuneração de disponibilidades no BC";2;240
+"288";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_OODC12";"Execução financeira - receitas - oper. oficiais de créditos";2;240
+"289";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_AUTO12";"Importações - categorias de uso - bens de consumo duráveis - automóveis - (FOB)";2;240
+"290";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_XMAESP12";"Exportações - produtos manufaturados - destino: Espanha - (FOB)";2;240
+"291";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_DURAV12";"Importações - categorias de uso - bens de consumo duráveis - (FOB)";2;240
+"292";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_BENCON12";"Importações - categorias de uso - bens de consumo - (FOB)";2;240
+"293";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_XVSEMI12";"Exportações - fator agregado - produtos semimanufaturados - (FOB)";2;240
+"294";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Boletim/M. Finan.";"BM12_RPOUM12";"Depósitos de poupança - média";2;240
+"295";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_RNFIFCP12";"Fundo de investimento - FIF - curto prazo - rendimento nominal";2;240
+"296";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_TJLCMN12";"Taxa de juros - letras de câmbio ao mutuário";2;240
+"297";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_TJTBC12";"Taxa de juros - TBC";2;240
+"298";"Mensal";"Macroeconômico";"Produção";"ANP";"ANP12_PDGASN12";"Produção - gás natural - média - qde.";2;240
+"299";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_CINE12";"Comércio - cine, foto, som e ótica - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"300";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_TECIDO12";"Comércio - tecidos - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"301";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_COMGER12";"Comércio - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"302";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_UTIDOM12";"Comércio - lojas de utilidades domésticas - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"303";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_LOJDEP12";"Comércio - lojas de departamento - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"304";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_COMSAU12";"Comércio - exceto concessionárias - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"305";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_MOVEIS12";"Comércio - móveis e decorações - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"306";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_SEMIDU12";"Comércio - bens semi-duráveis - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"307";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_VESTUA12";"Comércio - vestuário - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"308";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_FARM12";"Comércio - farmácias e perfumarias - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"309";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_CONCES12";"Comércio - concessionárias de veículos - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"310";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_CALCAD12";"Comércio - calçados - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"311";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_SUPERM12";"Comércio - supermercados - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"312";"Mensal";"Macroeconômico";"Consumo e vendas";"Fecomercio SP";"FCESP12_CONST12";"Comércio - materiais de construção - faturamento - índice (média 1998 = 100) - RMSP";2;240
+"313";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_RNEM12";"Fundo extramercado - rendimento nominal";2;240
+"314";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_TJLCTN12";"Taxa de juros - letras de câmbio ao tomador";2;240
+"315";"Mensal";"Macroeconômico";"Consumo e vendas";"ANP";"ANP12_CGASOL12";"Consumo aparente - gasolina - média - qde./dia";1;315
+"316";"Mensal";"Macroeconômico";"Produção";"ANP";"ANP12_PDALCO12";"Produção - álcool - média - qde./dia";1;315
+"317";"Mensal";"Macroeconômico";"Financeiras";"Bacen/Boletim/M. Finan.";"BM12_RNFI9012";"Fundo de investimento - FIF - 90 dias - rendimento nominal";1;315
+"318";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Boletim/M. Finan.";"BM12_RPOU12";"Depósitos de poupança - resgates no mês";1;315
+"319";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Boletim/M. Finan.";"BM12_DEPF12";"Depósitos a prazo - fim período";1;315
+"320";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Boletim/M. Finan.";"BM12_VCPOU12";"Depósitos de poupança - velocidade de circulação - relação resgates / saldos";1;315
+"321";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Boletim/M. Finan.";"BM12_RFIF12";"Fundo de investimento - FIF - curto prazo - resgate no mês";1;315
+"322";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_NDURAV12";"Importações - categorias de uso - bens de consumo não duráveis - (FOB)";1;315
+"323";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_COBLUB12";"Importações - categorias de uso - combustíveis e lubrificantes - (FOB)";1;315
+"324";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_XMAJAP12";"Exportações - produtos manufaturados - destino: Japão - (FOB)";1;315
+"325";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_MPPRIN12";"Importações - categorias de uso - matérias-primas e produtos intermediários - (FOB)";1;315
+"326";"Mensal";"Macroeconômico";"Comércio exterior";"MDIC/SECEX";"SECEX12_XMAHOL12";"Exportações - produtos manufaturados - destino: Holanda - (FOB)";1;315
+"327";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_RFC12";"Execução financeira - financiamento - fluxo de caixa total";1;315
+"328";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_EDMBC12";"Execução financeira - financiamento - resultado Tesouro/Bacen - des. no Bacen - encargos da DPMF";1;315
+"329";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_RFF12";"Execução financeira - resultado financeiro do Tesouro Nacional";1;315
+"330";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_ROOC12";"Execução financeira - receitas - oper. oficiais de créditos - outras";1;315
+"331";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_RTN12";"Execução financeira - receitas - total";1;315
+"332";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_DOVN12";"Execução financeira - despesas - liberações vinculadas - outras vinculações";1;315
+"333";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_DOOC12";"Execução financeira - despesas - liberações ordinárias - opererações oficiais de crédito";1;315
+"334";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_EDMM12";"Execução financeira - despesas - liberações ordinárias - encargos da dívida mobiliária - mercado";1;315
+"335";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/STN";"STN12_RDE12";"Execução financeira - financiamento - receitas - oper. de créditos - outras";1;315
+"336";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_PROC12";"Vendas industriais - processadores de alimentos - qde.";1;315
+"337";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_CAM12";"Vendas industriais - camcorders - qde.";1;315
+"338";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_VENT12";"Vendas industriais - ventiladores - qde.";1;315
+"339";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_RADIO12";"Vendas industriais - rádios-gravadores - qde.";1;315
+"340";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_CD12";"Vendas industriais - CD players - qde.";1;315
+"341";"Mensal";"Macroeconômico";"Consumo e vendas";"Eletros";"ELET12_FERRO12";"Vendas industriais - ferros automáticos - qde.";1;315
+"342";"Mensal";"Macroeconômico";"Moeda e crédito";"Anbima";"ANBIMA12_IBVRJ12";"Índice de ações - IBV - fechamento";1;315
+"343";"Mensal";"Macroeconômico";"Consumo e vendas";"Fiesp";"FIESP12_TVR12";"Vendas reais - indústria - índice (média 2006 = 100) - SP";1;315
+"344";"Mensal";"Macroeconômico";"Salário e renda";"Fiesp";"FIESP12_TSR12";"Salário real - indústria - índice (média 2006 = 100) - SP";1;315
+"345";"Mensal";"Macroeconômico";"Salário e renda";"Fiesp";"FIESP12_TFPN12";"Folha de pagamentos - indústria - índice (média 2006 = 100) - SP";1;315
+"346";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/Cotepe";"CONFAZ12_SRFSE12";"Receita administrada pela SRF - Sergipe (SE)";1;315
+"347";"Mensal";"Macroeconômico";"Salário e renda";"Fiesp";"FIESP12_SNM12";"Salário nominal - médio - indústria - índice (média 2006 = 100) - SP";1;315
+"348";"Mensal";"Macroeconômico";"Consumo e vendas";"Fiesp";"FIESP12_TVN12";"Vendas nominais - indústria - índice (média 2006 = 100) - SP";1;315
+"349";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_TPF12";"M0 - base monetária ampliada - títulos federais - fim período";1;315
+"350";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_M1N12";"M1 - fim período";1;315
+"351";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_HM12";"Haveres - monetários - fim período";1;315
+"352";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_TPFM12";"M0 - base monetária ampliada - títulos federais - média";1;315
+"353";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_DEPOU12";"M3 - depósitos em poupança - fim período";1;315
+"354";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_DEVM12";"M1 - depósitos à vista - média";1;315
+"355";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_M1MN12";"M1 - média";1;315
+"356";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_HFINBC12";"Haveres - financeiros - inclui títulos em poder do BC - fim período";1;315
+"357";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_TBC12";"M0 - base monetária ampliada - títulos do Banco Central - fim período";1;315
+"358";"Mensal";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM12_FAFN12";"M2 - fundos - aplicação financeira - fim período";1;315
+"359";"Mensal";"Macroeconômico";"Preços";"IBGE/SNIPC";"PRECOS12_INPCTC12";"INPC - transportes - var.";1;315
+"360";"Mensal";"Macroeconômico";"Preços";"IBGE/SNIPC";"PRECOS12_INPCCO12";"INPC - comunicação - var.";1;315
+"361";"Mensal";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP12_EFCP12";"Conta de capital - capitais a curto prazo";1;315
+"362";"Mensal";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP12_IEPDES12";"Conta de capital - investimentos estrangeiros - portfólio - retornos";1;315
+"363";"Mensal";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP12_IEPREC12";"Conta de capital - investimentos estrangeiros - portfólio - ingressos";1;315
+"364";"Mensal";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP12_IEMRFI12";"Conta de capital - investimentos estrangeiros - portfólio - fundos - ingressos";1;315
+"365";"Mensal";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP12_IEMRFL12";"Conta de capital - investimentos estrangeiros - portfólio - fundos";1;315
+"366";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_BTNFBC12";"Títulos públicos federais - fora do BC - Tesouro Nacional - BTN - fim período";1;315
+"367";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DIAJPY12";"Dívida - setor público - ajuste patrimonial - líquida";1;315
+"368";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DIVMUN12";"Dívida interna - pública - municipal - títulos emitidos - fim período";1;315
+"369";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DTEEN12";"Dívida - total - estatais - líquida";1;315
+"370";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_TPFTR12";"Títulos - federais - indexados à TR - fim período";1;315
+"371";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DTGFN12";"Dívida - total - gov. federal e Banco Central - líquida";1;315
+"372";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_TPFOVER12";"Títulos - federais - indexados à Over / Selic - fim período";1;315
+"373";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_TPFLP12";"Títulos - federais - indexados à TJLP - fim período";1;315
+"374";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DINEEN12";"Dívida interna - estatais - líquida";1;315
+"375";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DINSPN12";"Dívida interna - setor público - líquida";1;315
+"376";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_DINEMN12";"Dívida interna - estados e municípios - líquida";1;315
+"377";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_OTN12";"Títulos públicos federais emitidos - responsabilidade do Tesouro Nacional - OTN - fim período";1;315
+"378";"Mensal";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM12_TPFPRE12";"Títulos - federais - indexados a índice de correção pré-fixado - fim período";1;315
+"379";"Mensal";"Macroeconômico";"Câmbio";"Bacen/Boletim/BP";"BM12_SGCC12";"Câmbio contratado - comercial e financeiro";1;315
+"380";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ.";"AGROAN12_PRVAC12";"Preço médio - recebido pelo produtor - vaca leiteira comum - cabeça";1;315
+"381";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ.";"AGROAN12_PRCF12";"Preço médio - recebido pelo produtor - café (em coco) - kg";1;315
+"382";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ.";"AGROAN12_PRBOIM12";"Preço médio - recebido pelo produtor - boi magro - cabeça";1;315
+"383";"Mensal";"Macroeconômico";"Câmbio";"Bacen/Boletim/BP";"BM12_SBCCC12";"Câmbio contratado - comercial";1;315
+"384";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XQBI12";"Exportações - bens intermediários - quantum - índice (média 2006 = 100) (série antiga)";1;315
+"385";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_MDVBCND12";"Importações - bens de consumo não duráveis - (FOB) (série antiga)";1;315
+"386";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_MDVBK12";"Importações - bens de capital - (FOB) (série antiga)";1;315
+"387";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_MDVBI12";"Importações - bens intermediários - (FOB) (série antiga)";1;315
+"388";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_MDPBCND12";"Importações - bens de consumo não duráveis - preços - índice (média 2006 = 100) (série antiga)";1;315
+"389";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_MDVCOMB12";"Importações - combustíveis - (FOB) (série antiga)";1;315
+"390";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_XPBI12";"Exportações - bens intermediários - preços - índice (média 2006 = 100) (série antiga)";1;315
+"391";"Mensal";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX12_MDVBCD12";"Importações - bens de consumo duráveis - (FOB) (série antiga)";1;315
+"392";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN12_PIBAEV12";"PIB - agropecuária - extrativa vegetal - índice encadeado (média 1990 = 100)";1;315
+"393";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN12_PIBIND12";"PIB - indústria - índice encadeado (média 1990 = 100)";1;315
+"394";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN12_PIBSCO12";"PIB - serviços - comércio - índice encadeado (média 1990 = 100)";1;315
+"395";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN12_PIBSIF12";"PIB - serviços - instituições financeiras - índice encadeado (média 1990 = 100)";1;315
+"396";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIBEB12";"Produção industrial - bebidas - quantum - índice (média 1991 = 100)";1;315
+"397";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIFU12";"Produção industrial - fumo - quantum - índice (média 1991 = 100)";1;315
+"398";"Mensal";"Macroeconômico";"Produção";"IBGE/PIM-PF antiga";"PIMPF12_QIVCA12";"Produção industrial - vestuário, calçados e tecidos - quantum - índice (média 1991 = 100)";1;315
+"399";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_PIBSIF12";"PIB - instituições financeiras - índice real (média 1980 = 100)";1;315
+"400";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSTRF12";"Transporte ferroviário - índice (média 1980 = 100)";1;315
+"401";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_PIBSCO12";"PIB - comércio - índice real (média 1980 = 100)";1;315
+"402";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSTRA12";"Transporte aéreo - índice (média 1980 = 100)";1;315
+"403";"Mensal";"Macroeconômico";"Preços";"Fipe";"FIPE12_FIPE0553";"IPC - grupo: educação - RMSP - var.";1;315
+"404";"Mensal";"Macroeconômico";"Preços";"Fipe";"FIPE12_FIPE0002";"IPC - grupo: habitação - RMSP - var.";1;315
+"405";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSTRD12";"Transporte dutoviário - índice (média 1980 = 100)";1;315
+"406";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_PIBSCV12";"PIB - comércio - varejo - índice real (média 1980 = 100)";1;315
+"407";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_PIBSCA12";"PIB - comércio - atacado - índice real (média 1980 = 100)";1;315
+"408";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_PIBSTR12";"PIB - transportes - índice real (média 1980 = 100)";1;315
+"409";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_PIB12";"PIB - índice (média 1980 = 100)";1;315
+"410";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_YSCUC12";"PIB - serviços - correios - índice real (média 1980 = 100)";1;315
+"411";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_BOVINO12";"Abate - bovinos - peso das carcaças";1;315
+"412";"Mensal";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD12_PIBSCU12";"PIB - comunicações - índice real (média 1980 = 100)";1;315
+"413";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPABCN12";"IPA-DI - bens de consumo não duráveis - índice (ago. 1994 = 100)";1;315
+"414";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPAMP12";"IPA-DI - matérias-primas - índice (ago. 1994 = 100)";1;315
+"415";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA1491";"IPA-OG - produtos alimentares de origem vegetal - outros - índice (ago. 1994 = 100)";1;315
+"416";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0523";"IPA-OG - metais não ferrosos - índice (ago. 1994 = 100)";1;315
+"417";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0582";"IPA-OG - eletrodomésticos - índice (ago. 1994 = 100)";1;315
+"418";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0752";"IPA-OG - matérias plásticas - índice (ago. 1994 = 100)";1;315
+"419";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0744";"IPA-OG - tintas e vernizes - índice (ago. 1994 = 100)";1;315
+"420";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPA0817";"IPA-OG - malharia - índice (ago. 1994 = 100)";1;315
+"421";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"BM12_IPIN12";"Receita do Tesouro Nacional - Imposto sobre produtos industrializados (IPI)";1;315
+"422";"Mensal";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"SRF12_II12";"Imposto sobre a importação (II) - total - receita bruta";1;315
+"423";"Mensal";"Macroeconômico";"Produção";"Anfavea";"ANFAVE12_QONIBU12";"Produção - ônibus - montados e desmontados - qde.";1;315
+"424";"Mensal";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP12_IPAME12";"IPA-DI - máquinas, veículos e equipamentos - índice (ago. 1994 = 100)";1;315
+"425";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_USPIG12";"produção industrial - var. em 12 meses";1;315
+"426";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_ITPCG12";"preços ao consumidor - var. em 12 meses";1;315
+"427";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_USPPG12";"preços ao produtor - var. em 12 meses";1;315
+"428";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_ITPIG312";"produção industrial - var. trimestral anualiz.";1;315
+"429";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_JPBCY12";"balança comercial - saldo (acum. 12 meses)";1;315
+"430";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_ITPPG312";"preços ao produtor - var. trimestral anualiz.";1;315
+"431";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_FRCCY12";"balanço - conta corrente - saldo (acum. 12 meses)";1;315
+"432";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_ITPCG312";"preços ao consumidor - var. trimestral anualiz.";1;315
+"433";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_USPCG312";"preços ao consumidor - var. trimestral anualiz.";1;315
+"434";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_UKBCY12";"balança comercial - saldo (acum. 12 meses)";1;315
+"435";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_USBC12";"balança comercial - saldo (mês)";1;315
+"436";"Mensal";"Macroeconômico";"Economia internacional";"Economist";"ECONMI12_USPIG312";"produção industrial - var. trimestral anualiz.";1;315
+"437";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Trim.";"SCN4_FBKFPIB904";"Taxa de investimento (preços 2006) - ref. 2000";67;1
+"438";"Trimestral";"Macroeconômico";"Contas nacionais";"IPEA";"Gac4_FBKFPIB804";"Taxa de investimento (preços 1980)";58;2
+"439";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_STC4";"Transações correntes - saldo";44;3
+"440";"Trimestral";"Macroeconômico";"Comércio exterior";"Bacen/BP (BPM5)";"BPN4_SBC4";"Balança comercial - (FOB) - saldo (Antiga metod. - BPM5)";40;4
+"441";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_IEL4";"Conta de capital - investimentos estrangeiros";37;5
+"442";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_SBP4";"Balanço de pagamentos - superávit (+) ou déficit (-)";34;6
+"443";"Trimestral";"Macroeconômico";"Contas nacionais";"IPEA";"GAMMA4_PIBE4";"PIB - preços de mercado - índice encadeado (média 1990 = 100)";17;7
+"444";"Trimestral";"Macroeconômico";"Contas nacionais";"IPEA";"Gac4_FBKF804";"Capital fixo - formação bruta - índice real (média 1980 = 100)";14;8
+"445";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Trim.";"SCN4_PIBAS4";"PIB - preços básicos - índice encadeado - dessaz. (média 1995 = 100) - ref. 2000";11;9
+"446";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_IEDES4";"Conta de capital - investimentos estrangeiros - retornos";10;10
+"447";"Trimestral";"Macroeconômico";"Produção";"FGV/Conj. Econômica Inativa";"CE4_CUTIND4";"Utilização da capacidade instalada - indústria - média";10;10
+"448";"Trimestral";"Macroeconômico";"Comércio exterior";"Bacen/BP (BPM5)";"BPN4_XTV4";"Exportações - (FOB) (Antiga metod. - BPM5)";9;12
+"449";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_USPIBG4";"PIB - var. real contra igual trimestre do ano anterior";9;12
+"450";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_IEDREC4";"Conta de capital - investimentos estrangeiros - diretos - ingressos";8;14
+"451";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_IEPREC4";"Conta de capital - investimentos estrangeiros - portfólio - ingressos";8;14
+"452";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_IEPL4";"Conta de capital - investimentos estrangeiros - portfólio";7;16
+"453";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_EFCP4";"Conta de capital - capitais a curto prazo";7;16
+"454";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM4_DEXT4";"Dívida externa (exclui empréstimos intercompanhias)";7;16
+"455";"Trimestral";"Macroeconômico";"Contas nacionais";"IPEA";"GAMMA4_PIBN4";"PIB";7;16
+"456";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_PIBICC4";"PIB - indústria - construção civil - índice real (média 1980 = 100)";7;16
+"457";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_PIB4";"PIB - índice (média 1980 = 100)";7;16
+"458";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM4_DEXLPG4";"Dívida externa - pública - médio / longo prazos";6;22
+"459";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM4_DEXCPG4";"Dívida externa - pública - curto prazo";6;22
+"460";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_REINV4";"Conta de capital - reinvestimentos";5;24
+"461";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_IBDL4";"Conta de capital - investimentos brasileiros";5;24
+"462";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_IBDREC4";"Conta de capital - investimentos brasileiros - receitas";5;24
+"463";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_EFLP4";"Conta de capital - empréstimos / financiamentos - médio / longo prazos";5;24
+"464";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_OEF4";"Conta de capital - outros capitais";5;24
+"465";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_IBDDES4";"Conta de capital - investimentos brasileiros - despesas";5;24
+"466";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_TURDES4";"Conta de serviços - viagens internacionais - despesas";5;24
+"467";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_IEREC4";"Conta de capital - investimentos estrangeiros - ingressos";5;24
+"468";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_STK4";"Conta de capital - saldo";5;24
+"469";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_CONST4";"PIB - construção - índice real (média 1980 = 100)";5;24
+"470";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_PIBSAL4";"PIB - aluguéis - índice real (média 1980 = 100)";4;34
+"471";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_PIBSCV4";"PIB - comércio - varejo - índice real (média 1980 = 100)";4;34
+"472";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_COMERC4";"PIB - comércio - índice real (média 1980 = 100)";4;34
+"473";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_USCCY4";"balanço - conta corrente - saldo (acum. 12 meses)";4;34
+"474";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_USPIBG34";"PIB - var. real trimestral anualiz.";4;34
+"475";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_OREGFMI4";"Financiamento - oper. com o FMI e de regularização";4;34
+"476";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_EROM4";"Balanço de pagamentos - erros e omissões";4;34
+"477";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_OBCP4";"Financiamento - obrigações de curto prazo";4;34
+"478";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_AMLP4";"Conta de capital - amortização";4;34
+"479";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_JUR4";"Conta de serviços - juros";4;34
+"480";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM4_DEXLPP4";"Dívida externa - privada - médio / longo prazos";4;34
+"481";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM4_DEXCP4";"Dívida externa - curto prazo";4;34
+"482";"Trimestral";"Macroeconômico";"Comércio exterior";"Bacen/BP (BPM5)";"BPN4_MTV4";"Importações - (FOB) (Antiga metod. - BPM5)";4;34
+"483";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Trim.";"SCN4_PIB4";"PIB - preços básicos - índice encadeado (média 1995 = 100) - ref. 2000";4;34
+"484";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM4_DEXLP4";"Dívida externa - médio / longo prazos";3;48
+"485";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM4_DEXCPP4";"Dívida externa - privada - curto prazo";3;48
+"486";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_TURREC4";"Conta de serviços - viagens internacionais - receitas";3;48
+"487";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_IEDL4";"Conta de capital - investimentos estrangeiros - diretos";3;48
+"488";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_TUR4";"Conta de serviços - viagens internacionais";3;48
+"489";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_ALPIBG4";"PIB - var. real contra igual trimestre do ano anterior";3;48
+"490";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_JPPIBG34";"PIB - var. real trimestral anualiz.";3;48
+"491";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_PIBSCA4";"PIB - comércio - atacado - índice real (média 1980 = 100)";3;48
+"492";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_COMUN4";"PIB - comunicações - índice real (média 1980 = 100)";3;48
+"493";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_TRANSP4";"PIB - transportes - índice real (média 1980 = 100)";3;48
+"494";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_FINANC4";"PIB - instituições financeiras - índice real (média 1980 = 100)";3;48
+"495";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_SERV4";"PIB - serviços - índice real (média 1980 = 100)";2;59
+"496";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_EXTMIN4";"PIB - indústria - extrativa mineral - índice real (média 1980 = 100)";2;59
+"497";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_PIBIEX4";"PIB - indústria - extrativa mineral - índice real (média 1980 = 100)";2;59
+"498";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_UKPIBG4";"PIB - var. real contra igual trimestre do ano anterior";2;59
+"499";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_ALPIBG34";"PIB - var. real trimestral anualiz.";2;59
+"500";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_ITPIBG4";"PIB - var. real contra igual trimestre do ano anterior";2;59
+"501";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_UKPIBG34";"PIB - var. real trimestral anualiz.";2;59
+"502";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_LUDDES4";"Conta de serviços - lucros e dividendos - despesas";2;59
+"503";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_SNFDES4";"Conta de serviços - serviços não relativos a fatores de produção - despesas";2;59
+"504";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_SFEXJ4";"Conta de serviços - serviços relativos a fatores de produção - exceto juros";2;59
+"505";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_TUNDES4";"Transferências unilaterais correntes - despesas";1;69
+"506";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_JURREC4";"Conta de serviços - juros - receitas";1;69
+"507";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_JURDES4";"Conta de serviços - juros - despesas";1;69
+"508";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_LUD4";"Conta de serviços - lucros e dividendos";1;69
+"509";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_TUN4";"Transferências unilaterais correntes - saldo";1;69
+"510";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_TUNREC4";"Transferências unilaterais correntes - receitas";1;69
+"511";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_SER4";"Conta de serviços - saldo";1;69
+"512";"Trimestral";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP4_FRE4";"Conta de serviços - transportes - fretes";1;69
+"513";"Trimestral";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM4_NFSPPNA4";"NFSP - setor público - primário - c/ desvalorização cambial - acum. 4 trim.";1;69
+"514";"Trimestral";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM4_NFSPONA4";"NFSP - setor público - operacional - c/ desvalorização cambial - acum. 4 trim.";1;69
+"515";"Trimestral";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX4_MDPELET4";"Importações - setor: material elétrico - preços - índice (média 2006 = 100)";1;69
+"516";"Trimestral";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX4_XPCAL4";"Exportações - setor: calçados - preços - índice (média 2006 = 100)";1;69
+"517";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Trim.";"SCN4_PIBSIF4";"PIB - serviços - intermediação financeira - índice encadeado (média 1995 = 100 - ref. 2000";1;69
+"518";"Trimestral";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX4_MDQELET4";"Importações - setor: material elétrico - quantum - índice (média 2006 = 100)";1;69
+"519";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_FRWG34";"salário - var. trimestral anualiz.";1;69
+"520";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_JPPIBG4";"PIB - var. real contra igual trimestre do ano anterior";1;69
+"521";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_FRPIBG34";"PIB - var. real trimestral anualiz.";1;69
+"522";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_CAPIBG34";"PIB - var. real trimestral anualiz.";1;69
+"523";"Trimestral";"Macroeconômico";"Economia internacional";"Economist";"ECONMI4_ITPIBG34";"PIB - var. real trimestral anualiz.";1;69
+"524";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_IND4";"PIB - indústria - índice real (média 1980 = 100)";1;69
+"525";"Trimestral";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD4_PIBAGRO4";"PIB - agropecuária - índice real (média 1980 = 100)";1;69
+"526";"Anual";"Macroeconômico";"Contas nacionais";"IPEA";"GAC_PIB";"PIB (preços 2013) - ref. 2000";135;1
+"527";"Anual";"Macroeconômico";"Contas nacionais";"Bacen/Boletim/Ativ. Ec.";"BM_PIBUSDCM";"PIB - câmbio médio";81;2
+"528";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/BP (BPM5)";"BPN_SBC";"Balança comercial - (FOB) - saldo (Antiga metod. - BPM5)";69;3
+"529";"Anual";"Macroeconômico";"População";"IBGE/Pop";"DEPIS_POP";"População residente";63;4
+"530";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM_DEXT";"Dívida externa bruta (exclui empréstimos intercompanhias)";51;5
+"531";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_PIBN";"PIB - preços de mercado - ref. 2000";49;6
+"532";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_PIBG";"PIB - preços de mercado - var. real anual - ref. 2000";43;7
+"533";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_PIBN";"PIB";42;8
+"534";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_STC";"Transações correntes - saldo";37;9
+"535";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_SBP";"Balanço de pagamentos - superávit (+) ou déficit (-)";36;10
+"536";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XVT";"Exportações - (FOB)";30;11
+"537";"Anual";"Macroeconômico";"Projeções";"IBGE/SCN Consolidado";"SCNOLD_POP";"População residente - em 1º de julho - projeção";29;12
+"538";"Anual";"Macroeconômico";"Produção";"Anfavea";"ANFAVE_QVEICL";"Produção - automóveis - montados - qde.";23;13
+"539";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_CTN";"Consumo final";21;14
+"540";"Anual";"Macroeconômico";"Emprego";"IPEA";"GEPS_PEAURB";"População economicamente ativa (PEA) - urbana";18;15
+"541";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_FBKG";"Capital - formação bruta - var. real anual - ref. 2000";17;16
+"542";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_PIBG";"PIB - var. real anual";16;17
+"543";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_FBKFR";"Capital fixo - formação bruta";14;18
+"544";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_PIB";"PIB";13;19
+"545";"Anual";"Macroeconômico";"Comércio exterior";"Anfavea";"ANFAVE_XQVEICL";"Exportações - automóveis - montados - qde.";13;19
+"546";"Anual";"Macroeconômico";"População";"IPEA";"GEPS_CONTPREV";"Contribuintes - previdência social";13;19
+"547";"Anual";"Macroeconômico";"População";"IPEA";"GEPS_BENPREV";"Beneficiários - previdência social";13;19
+"548";"Anual";"Macroeconômico";"Consumo e vendas";"Anfavea";"ANFAVE_VQVEICL";"Vendas - automóveis - nacionais - montados - qde.";12;23
+"549";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_PIBCFN";"PIB (custo de fatores)";12;23
+"550";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_MDVT";"Importações - (FOB)";12;23
+"551";"Anual";"Macroeconômico";"Contas nacionais";"Bacen/Boletim/Ativ. Ec.";"BM_PIBUSDPPC";"PIB - conceito: paridade do poder de compra (PPC)";11;26
+"552";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_CTR";"Consumo final";10;27
+"553";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_CARGATY";"Carga tributária - total - ref. 2000";9;28
+"554";"Anual";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP_IPA";"IPA-EP-DI - geral - índice (ago. 1994 = 100)";9;28
+"555";"Anual";"Macroeconômico";"Consumo e vendas";"Eletrobras";"ELETRO_CEEIND";"Consumo - energia elétrica - indústria - qde.";9;28
+"556";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_ALUMG";"Commodities - alumínio - cotação internacional em US$ - projeção - var. anual";9;28
+"557";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/BP (BPM5)";"BPN_XTV";"Exportações - (FOB) (Antiga metod. - BPM5)";8;32
+"558";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_PIBI";"PIB - índice real (média 1980 = 100)";8;32
+"559";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_DIPIB";"PIB - deflator implícito - índice (média 1980 = 100)";8;32
+"560";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XVM";"Exportações - produtos manufaturados - (FOB)";8;32
+"561";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_FBKFN";"Capital fixo - formação bruta";7;36
+"562";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_CARGGFY";"Carga tributária - federal - ref. 2000";7;36
+"563";"Anual";"Macroeconômico";"Contas nacionais";"IPEA";"RITR_HLRBKPP";"Ativos líquidos reais - bens de capital - setor privado";7;36
+"564";"Anual";"Macroeconômico";"Consumo e vendas";"Eletrobras";"ELETRO_CEET";"Consumo - energia elétrica - qde.";7;36
+"565";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_MPETV";"Importações - petróleo bruto - (FOB)";7;36
+"566";"Anual";"Macroeconômico";"Consumo e vendas";"Eletrobras";"ELETRO_CEERES";"Consumo - energia elétrica - residência - qde.";6;41
+"567";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_AMLP";"Conta de capital - amortização";6;41
+"568";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/BP (BPM5)";"BPN_MTV";"Importações - (FOB) (Antiga metod. - BPM5)";6;41
+"569";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XVBI";"Exportações - bens intermediários - (FOB)";6;41
+"570";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN85R_PRODG";"Produtividade do trabalho - total";5;45
+"571";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_CFN";"Consumo final - famílias";5;45
+"572";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_CARGAN";"Carga tributária - líquida";5;45
+"573";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_FBKN";"Capital - formação bruta";5;45
+"574";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_DIFBKF";"Capital fixo - formação bruta - deflator implícito - índice (média 1980 = 100)";5;45
+"575";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_GARGPRY";"Carga tributária - previdência - ref. 2000";5;45
+"576";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_RNDBN";"Renda disponível bruta - ref. 2000";5;45
+"577";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_CARGMUY";"Carga tributária - municipal - ref. 2000";5;45
+"578";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_CARGESY";"Carga tributária - estadual - ref. 2000";5;45
+"579";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_FINANC";"Balanço de pagamentos - financiamento";5;45
+"580";"Anual";"Macroeconômico";"Consumo e vendas";"Eletrobras";"ELETRO_CEECOM";"Consumo - energia elétrica - comércio - qde.";5;45
+"581";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_MBCV";"Importações - bens de consumo - (FOB)";5;45
+"582";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_MBINPTV";"Importações - bens intermediários (exceto petróleo e trigo) - (FOB)";5;45
+"583";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_MCLV";"Importações - combustíveis e lubrificantes - (FOB)";4;58
+"584";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_MBIV";"Importações - bens intermediários - (FOB)";4;58
+"585";"Anual";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP_IPAI";"IPA origem - prod. industriais - índice (ago. 1994 = 100)";4;58
+"586";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_OCDPIBG";"PIB - projeção - var. real anual";4;58
+"587";"Anual";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM_CRBBC";"Empréstimos - setor privado - origem: Banco do Brasil";4;58
+"588";"Anual";"Macroeconômico";"Consumo e vendas";"ANP";"ANP_CGASOL";"Consumo aparente - gasolina - qde.";4;58
+"589";"Anual";"Macroeconômico";"Estoque de capital";"IPEA";"RITR_VELAUT";"Automóveis - estoque líquido";4;58
+"590";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YITR";"PIB - indústria - transformação - índice real (média 1980 = 100)";4;58
+"591";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_RNDBN";"Renda disponível bruta";4;58
+"592";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN85R_DIAGROG";"PIB - agropecuária - deflator implícito - var. anual";4;58
+"593";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XVBCD";"Exportações - bens de consumo duráveis - (FOB)";4;58
+"594";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XVBK";"Exportações - bens de capital - (FOB)";4;58
+"595";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XQT";"Exportações - quantum - índice (média 2006 = 100)";3;70
+"596";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_MDVBCD";"Importações - bens de consumo duráveis - (FOB)";3;70
+"597";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_MDVBCND";"Importações - bens de consumo não duráveis - (FOB)";3;70
+"598";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XPM";"Exportações - produtos manufaturados - preços - índice (média 2006 = 100)";3;70
+"599";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_MDVBK";"Importações - bens de capital - (FOB)";3;70
+"600";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XVS";"Exportações - produtos semi-manufaturados - (FOB)";3;70
+"601";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XVB";"Exportações - produtos básicos - (FOB)";3;70
+"602";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_MDVBI";"Importações - bens intermediários - (FOB)";3;70
+"603";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN85R_TUKAEPSN";"Transferências capital - entre adm. públicas - intergovernamentais - previdência (usos)";3;70
+"604";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN85R_TUKAIGGN";"Transferências capital - entre adm. públicas - intragovernamentais - total (usos)";3;70
+"605";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN85R_TRKAEPSN";"Transferências capital - entre adm. públicas - intergovernamentais - previdência (recursos)";3;70
+"606";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_CARGA";"Carga tributária - líquida";3;70
+"607";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_CF";"Consumo final - famílias";3;70
+"608";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_SUB";"Subsídios";3;70
+"609";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YICC";"PIB - indústria - construção civil - índice real (média 1980 = 100)";3;70
+"610";"Anual";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP_IPACL";"IPA-OG - combustíveis e lubrificantes - índice (ago. 1994 = 100)";3;70
+"611";"Anual";"Macroeconômico";"Finanças públicas";"IPEA";"RITR_DIMGG";"Títulos públicos - em poder do público";3;70
+"612";"Anual";"Macroeconômico";"Comércio exterior";"IPEA";"GAMMA_TL";"Importações - tarifa - alíquota legal";3;70
+"613";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_SBN";"Poupança nacional bruta - ref. 2000";3;70
+"614";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_DIPIBG";"PIB - deflator implícito - var. anual - ref. 2000";3;70
+"615";"Anual";"Macroeconômico";"Produção";"ANP";"ANP_PDPET";"Produção - petróleo - qde.";3;70
+"616";"Anual";"Macroeconômico";"Produção";"IBGE/PAM";"LSPA_QALGA";"Produção - algodão - arbóreo (caroço) - qde.";3;70
+"617";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_ALGODAOG";"Commodities - algodão - cotação internacional em US$ - projeção - var. anual";3;70
+"618";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_WLDXV";"exportações - projeção - var. real anual";3;70
+"619";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_LATBCV";"balança comercial - projeção";3;70
+"620";"Anual";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX_XPPET";"Exportações - setor: refino de petróleo - preços - índice (média 2006 = 100)";3;70
+"621";"Anual";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP_IPAA";"IPA origem - prod. agropecuários - índice (ago. 1994 = 100)";3;70
+"622";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_FREREC";"Conta de serviços - transportes - fretes - receitas";3;70
+"623";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_JURDES";"Conta de serviços - juros - despesas";3;70
+"624";"Anual";"Macroeconômico";"Consumo e vendas";"Eletrobras";"ELETRO_CEEOUT";"Consumo - energia elétrica - outros setores - qde.";3;70
+"625";"Anual";"Macroeconômico";"Produção";"FGV/Conj. Econ.";"CE_CUTIND";"Utilização da capacidade instalada - indústria - média";3;70
+"626";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM_DEXNR";"Dívida externa - não registrada";3;70
+"627";"Anual";"Macroeconômico";"Câmbio";"Bacen/Boletim/BP";"BM_ERVF";"Taxa de câmbio - R$ / US$ - comercial - venda - fim período";3;70
+"628";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_XDERV";"Exportações - derivados de petróleo - (FOB)";3;70
+"629";"Anual";"Macroeconômico";"Câmbio";"Bacen/Boletim/BP";"BM_ERCF";"Taxa de câmbio - R$ / US$ - comercial - compra - fim período";3;70
+"630";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_MBKV";"Importações - bens de capital - (FOB)";3;70
+"631";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_MMPV";"Importações - matérias-primas - (FOB)";3;70
+"632";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BP_ADXOU";"Dívida externa - amortizações - outros";3;70
+"633";"Anual";"Macroeconômico";"Câmbio";"Bacen/Boletim/BP";"BM_ERV";"Taxa de câmbio - R$ / US$ - comercial - venda - média";2;108
+"634";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BP_ADXCV";"Dívida externa - conversão em investimento";2;108
+"635";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_MTRIV";"Importações - trigo - (FOB)";2;108
+"636";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM_DEXRSP";"Dívida externa - pública - registrada";2;108
+"637";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BP_ADXOI";"Dívida externa - amortizações - organismos internacionais";2;108
+"638";"Anual";"Macroeconômico";"Câmbio";"Bacen/Boletim/BP";"BM_ERC";"Taxa de câmbio - R$ / US$ - comercial - compra - média";2;108
+"639";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BP_RES63";"Dívida externa - registrada - empréstimos externos em moeda - Resolução nº 63";2;108
+"640";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BP_ADXAG";"Dívida externa - amortizações - agências governamentais";2;108
+"641";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_XDERQ";"Exportações - derivados de petróleo - qde.";2;108
+"642";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM_DEXRPR";"Dívida externa - privada - registrada";2;108
+"643";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_MNPTV";"Importações - exceto petróleo e trigo - (FOB)";2;108
+"644";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_JUR";"Conta de serviços - juros";2;108
+"645";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_LURE";"Conta de serviços - lucros reinvestidos";2;108
+"646";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_REINV";"Conta de capital - reinvestimentos";2;108
+"647";"Anual";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP_IPAITR";"IPA origem - prod. industriais - ind. transf. - índice (ago. 1994 = 100)";2;108
+"648";"Anual";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP";"IGP_IPAIEX";"IPA origem - prod. industriais - ind. extrativa - índice (ago. 1994 = 100)";2;108
+"649";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_FREDES";"Conta de serviços - transportes - fretes - despesas";2;108
+"650";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_LUD";"Conta de serviços - lucros e dividendos";2;108
+"651";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_IEDES";"Conta de capital - investimentos estrangeiros - retornos";2;108
+"652";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_EFCP";"Conta de capital - capitais a curto prazo";2;108
+"653";"Anual";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX_MDQPETC";"Importações - setor: petróleo e carvão - quantum - índice (média 2006 = 100)";2;108
+"654";"Anual";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX_MDPBVEG";"Importações - setor: beneficiamento de produtos vegetais - preços - índice (média 2006 = 100)";2;108
+"655";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_PETROLOG";"Commodities - petróleo - cotação internacional em US$ - projeção - var. anual";2;108
+"656";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_ACUCARG";"Commodities - açúcar - cotação internacional em US$ - projeção - var. anual";2;108
+"657";"Anual";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM_HFIN";"Haveres - financeiros - exceto títulos em poder do BC - fim período";2;108
+"658";"Anual";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM_CRBCC";"Empréstimos - setor privado - origem: bancos comerciais";2;108
+"659";"Anual";"Macroeconômico";"Consumo e vendas";"ANP";"ANP_CDEPET";"Consumo aparente - derivados de petróleo - média - qde./dia";2;108
+"660";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_CFPPN";"Consumo final - famílias - ref. 2000";2;108
+"661";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_FBKFG";"Capital fixo - formação bruta - var. real anual - ref. 2000";2;108
+"662";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_RTRPRY";"Receita disponível após transferências correntes - adm. pública - previdência - ref. 2000";2;108
+"663";"Anual";"Macroeconômico";"Estoque de capital";"IPEA";"GAMMA_EBWG";"Riqueza - estoque bruto - público";2;108
+"664";"Anual";"Macroeconômico";"Comércio exterior";"IPEA";"GAMMA_TLBK";"Importações - tarifa - alíquota legal - bens de capital";2;108
+"665";"Anual";"Macroeconômico";"Estoque de capital";"IPEA";"RITR_VELELD";"Eletrodomésticos - estoque líquido -";2;108
+"666";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YSTR";"PIB - serviços - transportes - índice real (média 1980 = 100)";2;108
+"667";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YAGN";"PIB - agropecuária (custo de fatores)";2;108
+"668";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_SBSZN";"Transações correntes - bens e serviços - saldo compra";2;108
+"669";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_DIPIBG";"PIB - deflator implícito - var. anual";2;108
+"670";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_RIB";"Renda interna bruta";2;108
+"671";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YSCM";"PIB - serviços - comércio - índice real (média 1980 = 100)";2;108
+"672";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_TAPGN";"Transferências - assistência e previdência";2;108
+"673";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN85R_POCIND";"Pessoal ocupado - indústria";2;108
+"674";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XVCOMB";"Exportações - combustíveis - (FOB)";2;108
+"675";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XQM";"Exportações - produtos manufaturados - quantum - índice (média 2006 = 100)";2;108
+"676";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XVBCND";"Exportações - bens de consumo não duráveis - (FOB)";2;108
+"677";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XQBCD";"Exportações - bens de consumo duráveis - quantum - índice (média 2006 = 100)";1;152
+"678";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XPT";"Exportações - preços - índice (média 2006 = 100)";1;152
+"679";"Anual";"Macroeconômico";"Comércio exterior";"Funcex";"FUNCEX_XPB";"Exportações - produtos básicos - preços - índice (média 2006 = 100)";1;152
+"680";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN85R_TUKAIPSN";"Transferências capital - entre adm. públicas - intragovernamentais - previdência (usos)";1;152
+"681";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN85R_TUCGGN";"Transferências correntes - adm. pública - total (usos)";1;152
+"682";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN85R_TRCAEPSN";"Transferências correntes - entre adm. públicas - intergovernamentais - previdência (recursos)";1;152
+"683";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN85R_TUCAEPSN";"Transferências correntes - entre adm. públicas - intergovernamentais - previdência (usos)";1;152
+"684";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 1985 Anual";"SCN85R_POCSER";"Pessoal ocupado - serviços";1;152
+"685";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_GTGOV";"Gastos - governo";1;152
+"686";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_RTGN";"Receita corrente - governo";1;152
+"687";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YIND";"PIB - indústria - índice real (média 1980 = 100)";1;152
+"688";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YSCMN";"PIB - serviços - comércio (custo de fatores)";1;152
+"689";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_XBSZR";"Exportações - bens e serviços";1;152
+"690";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YAGG";"PIB - agropecuária - var. real anual";1;152
+"691";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_TD";"Tributos diretos";1;152
+"692";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YSIF";"PIB - serviços - instituições financeiras - índice real (média 1980 = 100)";1;152
+"693";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YICCN";"PIB - indústria - construção civil (custo de fatores)";1;152
+"694";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YAG";"PIB - agropecuária - índice real (média 1980 = 100)";1;152
+"695";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YSAPN";"PIB - serviços - adm. pública (custo de fatores)";1;152
+"696";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YIUP";"PIB - indústria - serviços utilid. púb. (SIUP) - índice real (média 1980 = 100)";1;152
+"697";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YSIFN";"PIB - serviços - instituições financeiras (custo de fatores)";1;152
+"698";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YIEX";"PIB - indústria - extrativa mineral - índice real (média 1980 = 100)";1;152
+"699";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YSERN";"PIB - serviços (custo de fatores)";1;152
+"700";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YSCUG";"PIB - serviços - comunicações - var. real anual";1;152
+"701";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_GPGOV";"Gastos - governo - primário";1;152
+"702";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YSCU";"PIB - serviços - comunicações - índice real (média 1980 = 100)";1;152
+"703";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YSAP";"PIB - serviços - adm. pública - índice real (média 1980 = 100)";1;152
+"704";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN Consolidado";"SCNOLD_YSER";"PIB - serviços - índice real (média 1980 = 100)";1;152
+"705";"Anual";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP_IPACG";"IPA-OG - cereais e grãos - índice (ago. 1994 = 100)";1;152
+"706";"Anual";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP_IPABC";"IPA-DI - grupo I: bens de consumo - índice (ago. 1994 = 100)";1;152
+"707";"Anual";"Macroeconômico";"Preços";"FGV/Conj. Econ. - IGP antigo";"IGP_IPAMP";"IPA-DI - matérias-primas - índice (ago. 1994 = 100)";1;152
+"708";"Anual";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"BM_ISSCN";"Imposto sobre serviços (ISS) - comunicações";1;152
+"709";"Anual";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"BM_IPIN";"Imposto sobre produtos industrializados (IPI)";1;152
+"710";"Anual";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"BM_IUCLN";"Imposto sobre combustíveis e lubrificantes (IUCL)";1;152
+"711";"Anual";"Macroeconômico";"Finanças públicas";"Min. Fazenda/SRF";"BM_IEE";"Imposto sobre energia elétrica (IEE)";1;152
+"712";"Anual";"Macroeconômico";"Estoque de capital";"IPEA";"GAMMA_EBWP";"Riqueza - estoque bruto - privado";1;152
+"713";"Anual";"Macroeconômico";"Estoque de capital";"IPEA";"GAMMA_ELWP";"Riqueza - estoque líquido - privado";1;152
+"714";"Anual";"Macroeconômico";"Comércio exterior";"IPEA";"GAMMA_TLBC";"Importações - tarifa - alíquota legal - bens de consumo";1;152
+"715";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_CGG";"Consumo final - adm. pública - var. real anual - ref. 2000";1;152
+"716";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_CTG";"Consumo final - var. real anual - ref. 2000";1;152
+"717";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_TRUNIDN";"Transferências correntes - enviadas e receb. resto do mundo - total (recursos) - ref. 2000";1;152
+"718";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_DAN";"Demanda total - ref. 2000";1;152
+"719";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_FBKFGN";"Capital fixo - formação bruta - adm. pública - ref. 2000";1;152
+"720";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_RWTRN";"Remuneração empregados (recursos) - ref. 2000";1;152
+"721";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_SUBN";"Subsídios à produção (-) - ref. 2000";1;152
+"722";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_VACOMGY";"PIB - serviços - comércio - var. real - ref. 2000";1;152
+"723";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_CTN";"Consumo final - ref. 2000";1;152
+"724";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_VASUPGY";"PIB - indústria - eletricidade, gás e água - var. real - ref. 2000";1;152
+"725";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_CPPG";"Consumo final - famílias - var. real anual - ref. 2000";1;152
+"726";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_VAITGY";"PIB - indústria - transformação - var. real - ref. 2000";1;152
+"727";"Anual";"Macroeconômico";"Contas nacionais";"IBGE/SCN 2000 Anual";"SCN_VACOGY";"PIB - indústria - construção - var. real - ref. 2000";1;152
+"728";"Anual";"Macroeconômico";"Contas nacionais";"IPEA";"RITR_HLBKCCFF";"Ativos líquidos reais - construção civil - famílias";1;152
+"729";"Anual";"Macroeconômico";"Estoque de capital";"IPEA";"GAMMA_EBAUT";"Automóveis - estoque bruto - privado";1;152
+"730";"Anual";"Macroeconômico";"Comércio exterior";"IPEA";"GAMMA_TLBINP";"Importações - tarifa - alíquota legal - bens intermediários - exceto petróleo";1;152
+"731";"Anual";"Macroeconômico";"Produção";"ANP";"ANP_PDALCO";"Produção - álcool - qde.";1;152
+"732";"Anual";"Macroeconômico";"Consumo e vendas";"ANP";"ANP_COLDIE";"Consumo aparente - óleo diesel - qde.";1;152
+"733";"Anual";"Macroeconômico";"Consumo e vendas";"ANP";"ANP_CALCO";"Consumo aparente - álcool carburante - média - qde./dia";1;152
+"734";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Not. Imp./Set. Ext.";"BM_RES";"Reservas internacionais";1;152
+"735";"Anual";"Macroeconômico";"População";"IBGE/Pop";"DEPIS_CV";"População - crescimento vegetativo";1;152
+"736";"Anual";"Macroeconômico";"Salário e renda";"Fiesp";"FIESP_TSR";"Salário real - indústria - SP - var. anual";1;152
+"737";"Anual";"Macroeconômico";"Salário e renda";"Fiesp";"FIESP_SNM";"Salário nominal - médio - indústria - SP - var. anual";1;152
+"738";"Anual";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM_RCM";"M0 - depósitos compulsórios - fim período";1;152
+"739";"Anual";"Macroeconômico";"Moeda e crédito";"Bacen/Not. Imp./Moeda";"BM_M0FN";"M0 - base monetária - fim período";1;152
+"740";"Anual";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./Moeda";"BM_LC";"Letras de câmbio";1;152
+"741";"Anual";"Macroeconômico";"Produção";"IBGE/PAM";"LSPA_QMILH";"Produção - milho - qde.";1;152
+"742";"Anual";"Macroeconômico";"Produção";"IBGE/PAM";"LSPA_QALGH";"Produção - algodão - herbáceo (caroço) - qde.";1;152
+"743";"Anual";"Macroeconômico";"Produção";"IBGE/PAM";"LSPA_QARRO";"Produção - arroz - qde.";1;152
+"744";"Anual";"Macroeconômico";"Produção";"IBGE/PAM";"LSPA_QFEIJ";"Produção - feijão - qde.";1;152
+"745";"Anual";"Macroeconômico";"Produção";"IBGE/PAM";"LSPA_QCANA";"Produção - cana-de-açúcar - qde.";1;152
+"746";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_CAFEG";"Commodities - café - cotação internacional em US$ - projeção - var. anual";1;152
+"747";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_LATPIBG";"PIB - projeção - var. real anual";1;152
+"748";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_USBCV";"balança comercial - projeção";1;152
+"749";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_ARROZG";"Commodities - arroz - cotação internacional em US$ - projeção - var. anual";1;152
+"750";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_PEDBCV";"balança comercial - projeção";1;152
+"751";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_FUMOG";"Commodities - fumo - cotação internacional em US$ - projeção - var. anual";1;152
+"752";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_SOJAOLEG";"Commodities - óleo de soja - cotação internacional em US$ - projeção - var. anual";1;152
+"753";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_SOJAGG";"Commodities - soja (em grão) - cotação internacional em US$ - projeção - var. anual";1;152
+"754";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_OCDXV";"exportações - projeção - var. real anual";1;152
+"755";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_USJC";"taxa de juros - curto prazo - projeção";1;152
+"756";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_PEDPIBG";"PIB - projeção - var. real anual";1;152
+"757";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_LEPIBG";"PIB - projeção - var. real anual";1;152
+"758";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_LATMV";"importações - projeção - var. real anual";1;152
+"759";"Anual";"Macroeconômico";"Projeções";"ONU/LINK";"LINK_ASIAPIBG";"PIB - projeção - var. real anual";1;152
+"760";"Anual";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX_MDPAGP";"Importações - setor: agropecuária - preços - índice (média 2006 = 100)";1;152
+"761";"Anual";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX_MDVVEST";"Importações - setor: artigos de vestuário - (FOB)";1;152
+"762";"Anual";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX_XQCAL";"Exportações - setor: calçados - quantum - índice (média 2006 = 100)";1;152
+"763";"Anual";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX_XQTEXT";"Exportações - setor: têxtil - quantum - índice (média 2006 = 100)";1;152
+"764";"Anual";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX_XPABAT";"Exportações - setor: abate de animais - preços - índice (média 2006 = 100)";1;152
+"765";"Anual";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX_XVCAL";"Exportações - setor: calçados - (FOB)";1;152
+"766";"Anual";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX_XVTEXT";"Exportações - setor: têxtil - (FOB)";1;152
+"767";"Anual";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX_MDPFARM";"Importações - setor: farmacêutica e perfumaria - preços - índice (média 2006 = 100)";1;152
+"768";"Anual";"Macroeconômico";"Comércio exterior";"Funcex/Séries antigas";"FUNCEX_MDPLAT";"Importações - setor: laticínios - preços - índice (média 2006 = 100)";1;152
+"769";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_IL1";"Conta de capital - investimentos - exceto conversão";1;152
+"770";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_OTR";"Conta de serviços - transportes - outros itens";1;152
+"771";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_LUDDES";"Conta de serviços - lucros e dividendos - despesas";1;152
+"772";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_TRP";"Conta de serviços - transportes";1;152
+"773";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_IEDL";"Conta de capital - investimentos estrangeiros - diretos";1;152
+"774";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_EM";"Conta de capital - empréstimos em moeda";1;152
+"775";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_OPREGFMI";"Financiamento - oper. com o FMI e de regularização";1;152
+"776";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_IEL2";"Conta de capital - investimentos estrangeiros";1;152
+"777";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_IEDREC";"Conta de capital - investimentos estrangeiros - diretos - ingressos";1;152
+"778";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_IBDDES";"Conta de capital - investimentos brasileiros - despesas";1;152
+"779";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_IEPREC";"Conta de capital - investimentos estrangeiros - portfólio - ingressos";1;152
+"780";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/Bpantigo";"BP_FRE";"Conta de serviços - transportes - fretes";1;152
+"781";"Anual";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM_DPIPP";"Dívida mobiliária interna federal - títulos fora do BC - fim período";1;152
+"782";"Anual";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM_NFEEON";"NFSP - estatais - operacional - c/ desvalorização cambial";1;152
+"783";"Anual";"Macroeconômico";"Finanças públicas";"Bacen/Not. Imp./F. Púb.";"BM_NFGFPN";"NFSP - gov. federal e Banco Central - primário - c/ desvalorização cambial";1;152
+"784";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM_BONUS";"Dívida externa - registrada - bônus";1;152
+"785";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM_KED";"Investimentos / reinvestimentos diretos - estrangeiros - registrados no país";1;152
+"786";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BP_DDXRBB";"Dívida externa - desembolsos - refinanciamentos - bancos comerciais - brasileiros";1;152
+"787";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BP_DDXOBA";"Dívida externa - desembolsos - outros - bancos";1;152
+"788";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BP_DDXRAG";"Dívida externa - desembolsos - refinanciamentos - credores oficiais";1;152
+"789";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM_IN289";"Dívida externa - registrada - empréstimos externos em moeda - Instrução nº 289";1;152
+"790";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_XPETQ";"Exportações - petróleo bruto - qde.";1;152
+"791";"Anual";"Macroeconômico";"Comércio exterior";"Bacen/Boletim/BP";"BM_MPETQ";"Importações - petróleo bruto - qde.";1;152
+"792";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM_DEXR";"Dívida externa - registrada";1;152
+"793";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BM_FINIMP";"Dívida externa - registrada - financiamentos de importações";1;152
+"794";"Anual";"Macroeconômico";"Balanço de pagamentos";"Bacen/Boletim/BP";"BP_ADXLP";"Dívida externa - amortizações";1;152

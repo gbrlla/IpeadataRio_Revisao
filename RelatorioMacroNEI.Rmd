@@ -507,56 +507,6 @@ knitr::kable(G, caption = '') %>%
 kable_styling(full_width = T)
 ```
 
-### Gráfico 1: Quantidade de acessos no Ipeadata.
-
-```{r, echo = FALSE, warning = FALSE, message = FALSE, fig.width = 7.5, fig.height = 3.75}
-nomes <- list.files('QtdAcessIpeadata')
-aces <- as_tibble(NULL)
-
-for (i in 1:length(nomes)) {
-  aces_aux <- as_tibble(data.frame(A = paste0(substr(nomes[i], 18, 24), "-01"),
-                            B = sum(read.csv2(paste0("QtdAcessIpeadata/",nomes[i]))[ , 8])))
-
-  aces <- bind_rows(aces , aces_aux)
-}
-
-library(dygraphs)
-
-acests <- ts(data = aces$B/1000, start = c(2000, 3), frequency = 12)
-
-dygraph(acests, ylab = "Quantidade de Acessos (x 1000)") %>%
-   dySeries("V1", label = "Acessos") %>%
-  dyBarChart() %>%
-  dyOptions(fillGraph = TRUE, fillAlpha = 0.4, colors = "#d9240e") %>%
-  dyRangeSelector()
-```
-
-```{r, results = FALSE, echo = FALSE, warning = FALSE, message = FALSE}
-# ------ Abrindo conexao
-conAccess <- utils::read.csv2(file.path("", "", "Srjn3", "area_corporativa",
-                                        "Projeto_IPEADATA", "Geral",
-                                        "PacoteIpeadataRio", "conPostgreSQL.csv"))
-
-con <- RPostgreSQL::dbConnect(drv = as.character(conAccess$drv),
-                              dbname = as.character(conAccess$dbname),
-                              host = as.character(conAccess$host),
-                              port = conAccess$port,
-                              user = as.character(conAccess$user),
-                              password = as.character(conAccess$password))
-
-# ------ Requerendo dados pelo SQL
-atrasos <- RPostgreSQL::dbGetQuery(con, 
-                                      paste0("SELECT TO_CHAR(data_atraso,  'YYYY-MM-DD') data0, ",
-                                             "atraso_macro FROM public.tb_ipeadata_atrasos;"))
-
-
-# ------ Fechando conexao
-RPostgreSQL::dbDisconnect(conn = con)
-
-library(magrittr)
-library(xts)
-library(dygraphs)
-```
 
 ### Gráfico 2: Quantidade de dias de atraso no Ipeadata.
 
