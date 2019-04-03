@@ -1,24 +1,73 @@
+# -------- Lista de pacotes
+pacotes <- c('RODBC', 'dplyr', 'magrittr', 'tidyr', 'knitr', 'kableExtra')
+
+# -------- Carregando pacotes
+for (i in 1:length(pacotes))
+{
+  pck <- names(installed.packages()[, 1]) == pacotes[i]
+  if (length(names(installed.packages()[, 1])[pck]) == 0) {
+    install.packages(pacotes[i], repos = 'http://cran.fiocruz.br/')
+  }
+  suppressPackageStartupMessages(library(pacotes[i],character.only = TRUE)) 
+}
+rm(pacotes, i, pck)
+
+
+# -------- Abrindo conexão com a base em SQL
 con <- RODBC::odbcConnect(dsn = "ipeadata", uid = "", pwd = "")
 
-# ------ Mae
-mae <- 
+# -------- Solicitando Mae
+mae_didatico <- 
   RODBC::sqlQuery(con, paste0("SELECT ", 
                               "dbo.SERIES.SERCODIGOTROLL, ",
                               "dbo.SERIES.SERSTATUS, ", 
+                              "dbo.SERIES.FNTID, ", 
+                              "dbo.SERIES.TEMID, ", 
                               "dbo.SERIES.SERNOME_P, ", 
+                              "dbo.SERIES.SERTIPO, ",
                               "dbo.SERIES.SERDESCRICAO_P, ", 
                               "dbo.SERIES.SERLIBERADA, ", 
                               "dbo.SERIES.SERPRIVATIVA, ", 
-                              "dbo.SERIES.TEMID, ", 
-                              "dbo.SERIES.FNTID, ", 
-                              "dbo.SERIES.SERTIPO, ", 
-                              "dbo.SERIES.SERINDGER ", 
+                              "dbo.SERIES.SERPRAZOATUALIZACAO, ",
+                              "dbo.SERIES.SERINDICADORIPEA, ",
+                              "dbo.SERIES.SERHISTORICA, ",
+                              "dbo.SERIES.SERHISTORICO, ",
+                              "dbo.SERIES.SERINDGER, ", 
+                              "dbo.SERIES.CATID ",
                               "FROM dbo.SERIES;")) %>% 
-  as_tibble() %>%  
-  filter(SERTIPO == 'N') %>% 
+  as_tibble() %>% 
   mutate(SERCODIGOTROLL2 = SERCODIGOTROLL) %>% 
-  separate(col = 'SERCODIGOTROLL2', into = 'BANCO', sep = "_")
+  separate(col = 'SERCODIGOTROLL2', into = 'BANCO', sep = "_") %>%
+  mutate(COND_EXIB = if_else(SERLIBERADA == 0, "Oculta", if_else(SERPRIVATIVA == 1, "Intranet", "Internet"))) %>%
+  mutate(GRANDE_TEMA = if_else(SERTIPO == "N", "Macro", if_else(SERTIPO == "R" & CATID == 1, "Regional", "Social"))) 
 
+# ------ Excluindo colunas desnecessárias: SERTIPO e CATID
+excluir<-c(6,15)
+mae<-mae[,-excluir]
+
+# ------ Padronizando
+mae$SERCODIGOTROLL <- as.character(mae$SERCODIGOTROLL)
+mae$SERLIBERADA <- as.factor(mae$SERLIBERADA)
+mae$SERPRIVATIVA <- as.factor(mae$SERPRIVATIVA)
+mae$BANCO <- as.factor(mae$BANCO)
+
+
+# -------- Status
+mae$SERSTATUS <- factor(mae$SERSTATUS,
+                        levels = c("A", "I"),
+                        labels = c("Ativa", "Inativa"))
+
+# -------- Liberada
+mae$SERLIBERADA <- factor(mae$SERLIBERADA,
+                          levels = c("0", "1"),
+                          labels = c("Oculta", "Não oculta"))
+
+# -------- Privativa
+mae$SERPRIVATIVA <- factor(mae$SERPRIVATIVA,
+                           levels = c("0", "1"),
+                           labels = c("Internet", "Intranet"))
+
+# -------- Tema
 mae$TEMID <- factor(mae$TEMID, 
                     levels = c("28", "23", "25", "10", "7", "5",
                                "2", "8", "81", "24", "37", "38",        
@@ -37,7 +86,7 @@ mae$TEMID <- factor(mae$TEMID,
                                "Deputado Federal", "Eleitorado", "Governador", "Prefeito", "Presidente", "Senador", "Vereador",
                                "IDHm1991", "IDHm2000", "IDHm2010"))
 
-# ------ Fontes
+# -------- Fontes
 mae$FNTID <- factor(mae$FNTID, 
                     levels = c("2092078006", "323394154", "378", "547", "384",
                                "36083653", "407", "1347352618", "1700650372",
@@ -100,10 +149,18 @@ mae$FNTID <- factor(mae$FNTID,
                                "IBGE/PPM", "CJF", "IBGE/Pop", "Eletros", 
                                "Funcex/Séries antigas"))
 
-
-setwd("C:\\Users\\b248968182\\Desktop\\IPEADATA")
-write.csv(mae, "mae3.csv", row.names = FALSE)
-
-
-# ------ Fechando conexao
+# -------- Fechando conexao
 RODBC::odbcClose(con)
+
+
+# -------- Analisando dados
+glimpse(mae)
+
+
+
+
+
+# -------- Salvando mae didático
+write.csv2(mae, "mae_didatico.csv")
+
+
