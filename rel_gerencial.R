@@ -17,7 +17,7 @@ rm(pacotes, i, pck)
 con <- RODBC::odbcConnect(dsn = "ipeadata", uid = "", pwd = "")
 
 # -------- Solicitando Mae
-mae_didatico <- 
+mae <- 
   RODBC::sqlQuery(con, paste0("SELECT ", 
                               "dbo.SERIES.SERCODIGOTROLL, ",
                               "dbo.SERIES.SERSTATUS, ", 
