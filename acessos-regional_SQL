@@ -1,0 +1,27 @@
+# Acessos para series do tema regional IPEADATA - SQL
+
+SELECT s.SERID
+	, s.SERCODIGOTROLL
+	, s.SERNOME_P
+	, s.FNTID
+	, s.SERTIPO
+	, s.TEMID
+	, s.CATID
+	, COUNT(*) AS Consultas
+	, CASE  WHEN s.SERTIPO = 'N' THEN 'Macroeconômico' 
+    WHEN s.SERTIPO = 'R' and s.CATID = 1 THEN 'Regional' 
+    WHEN s.SERTIPO = 'R' and s.CATID = 2 THEN 'Social' 
+    ELSE 'ERRO!' END AS SERBASE
+FROM dbo.logconsultaNet AS c
+INNER JOIN dbo.SERIES as s
+ON s.SERID = c.SERID
+WHERE (c.lgchora BETWEEN '2019-03-01' AND '2019-03-31 23:59:59.997' AND s.SERTIPO = 'R' and s.CATID = 1)
+GROUP BY      s.SERID
+             , s.SERCODIGOTROLL
+             , s.SERNOME_P
+			 , s.FNTID
+			 , s.SERTIPO
+			 , s.TEMID
+			 , s.CATID
+ORDER BY SERBASE
+, Consultas DESC;
