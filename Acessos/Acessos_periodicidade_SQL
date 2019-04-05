@@ -1,0 +1,41 @@
+SELECT     p.PERNOME_P
+       , qtd.SERBASE
+	   , m.TEMNOME_P
+       , n.FNTNOME_P
+       , qtd.SERCODIGOTROLL
+       , qtd.SERNOME_P
+       , qtd.QtdConsultas
+       , qtd.Posicao
+FROM (
+       SELECT s.PERID
+             , s.SERID
+             , s.SERCODIGOTROLL
+             , s.SERNOME_P
+			 , s.FNTID
+			 , s.SERTIPO
+			 , s.CATID
+			 , CASE  
+               WHEN s.SERTIPO = 'N' THEN 'Macroeconômico' 
+               WHEN s.SERTIPO = 'R' and s.CATID = 1 THEN 'Regional' 
+               WHEN s.SERTIPO = 'R' and s.CATID = 2 THEN 'Social' 
+               ELSE 'ERRO!' END AS SERBASE
+			 , s.TEMID
+             , COUNT(*) QtdConsultas
+             , RANK() OVER (PARTITION BY s.PERID ORDER BY COUNT(*) DESC) Posicao
+       FROM dbo.logconsultaNet con
+       INNER JOIN dbo.SERIES s ON con.SERID = s.SERID
+       WHERE con.lgchora BETWEEN '2017-07-01' AND '2017-12-31 23:59:59.997'
+       GROUP BY s.PERID
+             , s.SERID
+             , s.SERCODIGOTROLL
+             , s.SERNOME_P
+			 , s.FNTID
+			 , s.SERTIPO
+			 , s.TEMID
+			 , s.CATID) qtd
+INNER JOIN dbo.PERIODICIDADES p ON qtd.PERID = p.PERID
+INNER JOIN dbo.TEMA m ON qtd.TEMID = m.TEMID
+INNER JOIN dbo.FONTES n ON qtd.FNTID = n.FNTID
+WHERE qtd.Posicao >= 1
+ORDER BY p.PERID
+       , qtd.Posicao
