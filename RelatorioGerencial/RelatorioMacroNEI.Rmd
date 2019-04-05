@@ -59,6 +59,10 @@ mae$SERLIBERADA <- as.factor(mae$SERLIBERADA)
 mae$SERPRIVATIVA <- as.factor(mae$SERPRIVATIVA)
 mae$BANCO <- as.factor(mae$BANCO)
 
+
+
+
+
 # ------ Temas
 mae$TEMID <- factor(mae$TEMID, 
                     levels = c("28", "23", "25", "10", "7", "5",
