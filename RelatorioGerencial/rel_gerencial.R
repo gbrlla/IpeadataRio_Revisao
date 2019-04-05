@@ -22,7 +22,8 @@ mae <-
                               "dbo.SERIES.SERCODIGOTROLL, ",
                               "dbo.SERIES.SERSTATUS, ", 
                               "dbo.SERIES.FNTID, ", 
-                              "dbo.SERIES.TEMID, ", 
+                              "dbo.SERIES.TEMID, ",
+                              "dbo.SERIES.PERID, ",
                               "dbo.SERIES.SERNOME_P, ", 
                               "dbo.SERIES.SERTIPO, ",
                               "dbo.SERIES.SERDESCRICAO_P, ", 
@@ -41,8 +42,9 @@ mae <-
   mutate(COND_EXIB = if_else(SERLIBERADA == 0, "Oculta", if_else(SERPRIVATIVA == 1, "Intranet", "Internet"))) %>%
   mutate(GRANDE_TEMA = if_else(SERTIPO == "N", "Macro", if_else(SERTIPO == "R" & CATID == 1, "Regional", "Social"))) 
 
+
 # ------ Excluindo colunas desnecessárias: SERTIPO e CATID
-excluir<-c(6,15)
+excluir<-c(7,16)
 mae<-mae[,-excluir]
 
 # ------ Padronizando
@@ -51,6 +53,12 @@ mae$SERLIBERADA <- as.factor(mae$SERLIBERADA)
 mae$SERPRIVATIVA <- as.factor(mae$SERPRIVATIVA)
 mae$BANCO <- as.factor(mae$BANCO)
 
+
+# ------ Periodicidade
+mae$PERID <- factor(mae$PERID,
+                    levels = c("-1", "1", "3", "6", "12"),
+                    labels = c("DIARIA", "MENSAL", "TRIMESTRAL",
+                               "SEMESTRAL", "ANUAL"))
 
 # -------- Status
 mae$SERSTATUS <- factor(mae$SERSTATUS,
@@ -151,6 +159,23 @@ mae$FNTID <- factor(mae$FNTID,
 
 # -------- Fechando conexao
 RODBC::odbcClose(con)
+
+
+# -------- Filtrando dados para revisao do 2 Trimestre de 2019
+mae_revisaoT2 <- mae %>%
+  group_by(BANCO) %>%
+  filter(SERSTATUS == "Ativa", 
+         GRANDE_TEMA == "Macro", 
+         BANCO == "SCN10" | BANCO == "GAC12" | BANCO == "PRECOS12" 
+         | BANCO == "PRECOS" | BANCO == "GM366" | BANCO == "FUNCEX")
+
+
+
+# -------- Excluindo colunas que nao serao usadas na revisao
+excluir <- c(2, 8:14, 16)
+mae_revisaoT2 <- mae_revisaoT2[,-excluir]
+
+write.csv2(mae_revisaoT2, "mae_revisaoT2.csv")
 
 
 # -------- Analisando dados
