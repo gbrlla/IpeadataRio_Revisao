@@ -63,7 +63,7 @@ for (i in 2:length(datas)) {
   acessos <- acessos[,-excluir]
   
 #Trocar para o left
-mae_acesso <- right_join(acessos, mae_didatico, by="SERCODIGOTROLL")
+mae_acesso <- right_join(acessos, mae, by="SERCODIGOTROLL")
 write.csv2(mae_acesso, paste0("QtdAcessIpeadata/QtdAcessIpeadatamae_", substr(datas[i - 1], 1, 7), ".csv"))
   
 }
@@ -84,7 +84,7 @@ for (i in 1:lenght(test)){
 
 tes<-do.call(cbind,teste)
 
-final<-left_join(mae_didatico,tes,by=c())
+final<-left_join(mae,tes,by=c())
 
 # ------ Fechando conexao
 RODBC::odbcClose(con)
